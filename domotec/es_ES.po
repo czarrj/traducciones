@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: porto\n"
 "POT-Creation-Date: 2024-11-09 02:29+0900\n"
-"PO-Revision-Date: 2024-11-21 15:12-0500\n"
+"PO-Revision-Date: 2024-11-21 15:26-0500\n"
 "Last-Translator: \n"
 "Language-Team: CzarRj\n"
 "Language: es_ES\n"
@@ -2052,7 +2052,7 @@ msgstr ""
 
 #: inc/admin/setup_wizard/setup_wizard.php:1885 inc/functions/wpb-elements.php:3743
 msgid "Products"
-msgstr ""
+msgstr "Productos"
 
 #: inc/admin/setup_wizard/setup_wizard.php:1886
 msgid "Builders"
@@ -2639,7 +2639,7 @@ msgstr ""
 
 #: inc/admin/setup_wizard/speed_optimize_wizard.php:585
 msgid "Product Archive"
-msgstr ""
+msgstr "Archivo de Productos"
 
 #: inc/admin/setup_wizard/speed_optimize_wizard.php:588
 msgid "Post Type"
@@ -5445,11 +5445,11 @@ msgstr ""
 
 #: inc/admin/theme_options/settings.php:355
 msgid "Product Page"
-msgstr ""
+msgstr "Página de Producto"
 
 #: inc/admin/theme_options/settings.php:361
 msgid "Product Quickview"
-msgstr ""
+msgstr "Vista rápida de Producto"
 
 #: inc/admin/theme_options/settings.php:367
 msgid "Blog Pages"
@@ -6166,7 +6166,7 @@ msgstr ""
 
 #: inc/admin/theme_options/settings.php:1883 inc/admin/theme_options/settings.php:2091
 msgid "Search by Product Tag"
-msgstr ""
+msgstr "Buscar por Etiqueta de Producto"
 
 #: inc/admin/theme_options/settings.php:1894
 #, php-format
@@ -6244,7 +6244,7 @@ msgstr ""
 #: inc/admin/theme_options/settings.php:2001 inc/admin/theme_options/settings.php:2174
 #: inc/admin/theme_options/woocommerce.php:1937
 msgid "Product"
-msgstr ""
+msgstr "Producto"
 
 #: inc/admin/theme_options/settings.php:2011 inc/admin/theme_options/woocommerce.php:774
 msgid "Show Categories"
@@ -8421,23 +8421,23 @@ msgstr ""
 
 #: inc/admin/theme_options/woocommerce.php:304
 msgid "Popular products"
-msgstr ""
+msgstr "Productos populares"
 
 #: inc/admin/theme_options/woocommerce.php:305
 msgid "Top rated products"
-msgstr ""
+msgstr "Productos más destacados"
 
 #: inc/admin/theme_options/woocommerce.php:306
 msgid "Sale products"
-msgstr ""
+msgstr "Productos en oferta"
 
 #: inc/admin/theme_options/woocommerce.php:307
 msgid "Featured products"
-msgstr ""
+msgstr "Productos destacados"
 
 #: inc/admin/theme_options/woocommerce.php:308
 msgid "Recent products"
-msgstr ""
+msgstr "Productos recientes"
 
 #: inc/admin/theme_options/woocommerce.php:315
 msgid "Popup Title"
@@ -8453,7 +8453,7 @@ msgstr ""
 
 #: inc/admin/theme_options/woocommerce.php:324
 msgid "Products Count"
-msgstr ""
+msgstr "Contar Productos"
 
 #: inc/admin/theme_options/woocommerce.php:334
 msgid "Start Delay(seconds)"
