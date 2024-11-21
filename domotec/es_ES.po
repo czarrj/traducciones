@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: porto\n"
 "POT-Creation-Date: 2024-11-09 02:29+0900\n"
-"PO-Revision-Date: 2024-11-21 15:26-0500\n"
+"PO-Revision-Date: 2024-11-21 15:32-0500\n"
 "Last-Translator: \n"
 "Language-Team: CzarRj\n"
 "Language: es_ES\n"
@@ -8756,7 +8756,7 @@ msgstr ""
 
 #: inc/admin/theme_options/woocommerce.php:797 inc/admin/theme_options/woocommerce.php:1866
 msgid "Show Price"
-msgstr ""
+msgstr "Ver precio"
 
 #: inc/admin/theme_options/woocommerce.php:798
 msgid "To show price on product loop."
@@ -9683,7 +9683,7 @@ msgstr ""
 
 #: inc/functions/layout.php:2130
 msgid "All Categories"
-msgstr ""
+msgstr "Todas las categorías"
 
 #: inc/functions/layout.php:2183
 #, php-format
@@ -10352,7 +10352,7 @@ msgstr ""
 
 #: inc/functions/woo-actions/single-product.php:297
 msgid "Select options"
-msgstr ""
+msgstr "Seleccionar opciones"
 
 #: inc/functions/woocommerce.php:246
 msgid "Grid View"
@@ -10873,7 +10873,7 @@ msgstr ""
 #: inc/functions/wpb-elements.php:3563 inc/functions/wpb-elements.php:3576 inc/functions/wpb-elements.php:3589
 #: inc/functions/wpb-elements.php:3643 inc/functions/wpb-elements.php:3656 inc/functions/wpb-elements.php:3669
 msgid "Select Icon"
-msgstr ""
+msgstr "Seleccionar icono"
 
 #: inc/functions/wpb-elements.php:999 inc/functions/wpb-elements.php:1877 inc/functions/wpb-elements.php:2946
 #: inc/functions/wpb-elements.php:3300
@@ -13031,24 +13031,24 @@ msgstr ""
 #, php-format
 msgid "%s product"
 msgid_plural "%s products"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s producto"
+msgstr[1] "%s productos"
 
 #: woocommerce/content-product-cat.php:174
 msgid "View All Products"
-msgstr ""
+msgstr "Ver todos los productos"
 
 #: woocommerce/content-widget-price-filter.php:41 woocommerce/content-widget-price-filter.php:42
 msgid "Min price"
-msgstr ""
+msgstr "Precio mínimo"
 
 #: woocommerce/content-widget-price-filter.php:43 woocommerce/content-widget-price-filter.php:44
 msgid "Max price"
-msgstr ""
+msgstr "Precio máximo"
 
 #: woocommerce/content-widget-price-filter.php:48
 msgid "Price:"
-msgstr ""
+msgstr "Precio:"
 
 #: woocommerce/loop/add-to-cart.php:122 woocommerce/loop/add-to-cart.php:133
 msgid "Quick View"
