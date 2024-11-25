@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: porto\n"
 "POT-Creation-Date: 2024-11-09 02:29+0900\n"
-"PO-Revision-Date: 2024-11-21 15:32-0500\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2024-11-25 01:08-0500\n"
+"Last-Translator: Checha <czarrj@proton.me>\n"
 "Language-Team: CzarRj\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -14,6 +14,7 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;"
 "_nx_noop;translate_nooped_plural\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: inc/plugins/tgm-plugin-activation\n"
 "X-Poedit-SearchPathExcluded-1: inc/admin/ReduxCore\n"
@@ -5301,15 +5302,15 @@ msgstr ""
 
 #: inc/admin/theme_options/menu.php:1663 inc/functions/layout/breadcrumbs.php:40
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #: inc/admin/theme_options/menu.php:1665 inc/admin/theme_options/settings.php:3957
 msgid "Shop"
-msgstr ""
+msgstr "Tienda"
 
 #: inc/admin/theme_options/menu.php:1667 inc/admin/theme_options/settings.php:1402
 msgid "Account"
-msgstr ""
+msgstr "Cuenta"
 
 #: inc/admin/theme_options/menu.php:1668 inc/functions/layout.php:2355 inc/functions/woocommerce.php:400
 msgid "Cart"
@@ -8347,17 +8348,17 @@ msgstr ""
 #: inc/admin/theme_options/woocommerce.php:220 woocommerce/loop/sale-flash.php:20
 #: woocommerce/single-product/sale-flash.php:18
 msgid "Hot"
-msgstr ""
+msgstr "Plus"
 
 #: inc/admin/theme_options/woocommerce.php:226 woocommerce/loop/sale-flash.php:41
 #: woocommerce/single-product/sale-flash.php:32
 msgid "Sale"
-msgstr ""
+msgstr "Oferta"
 
 #: inc/admin/theme_options/woocommerce.php:232 woocommerce/loop/sale-flash.php:50
 #: woocommerce/single-product/sale-flash.php:39
 msgid "New"
-msgstr ""
+msgstr "Nuevo"
 
 #: inc/admin/theme_options/woocommerce.php:243
 msgid "\"Hot\" Text"
@@ -8377,7 +8378,7 @@ msgstr ""
 
 #: inc/admin/theme_options/woocommerce.php:259
 msgid "Show Saved Sale Price Percentage"
-msgstr ""
+msgstr "Mostrar Saved Oferta Precio Porcentaje"
 
 #: inc/admin/theme_options/woocommerce.php:260
 msgid "Select \"No\" to display \"Sale\" text instead of sale percentage."
@@ -10304,39 +10305,39 @@ msgstr ""
 
 #: inc/functions/woo-actions/single-product.php:87
 msgid "Offer Ends In:"
-msgstr ""
+msgstr "Oferta termina en:"
 
 #: inc/functions/woo-actions/single-product.php:89 inc/functions/woo-actions/single-product.php:91
 msgid "Day"
-msgstr ""
+msgstr "Día"
 
 #: inc/functions/woo-actions/single-product.php:89 inc/functions/woo-actions/single-product.php:91
 msgid "Days"
-msgstr ""
+msgstr "Días"
 
 #: inc/functions/woo-actions/single-product.php:89
 msgid "Hour"
-msgstr ""
+msgstr "Horas"
 
 #: inc/functions/woo-actions/single-product.php:89
 msgid "Hours"
-msgstr ""
+msgstr "Horas"
 
 #: inc/functions/woo-actions/single-product.php:89
 msgid "Minute"
-msgstr ""
+msgstr "Minuto"
 
 #: inc/functions/woo-actions/single-product.php:89
 msgid "Minutes"
-msgstr ""
+msgstr "Minutos"
 
 #: inc/functions/woo-actions/single-product.php:89
 msgid "Second"
-msgstr ""
+msgstr "Segundo"
 
 #: inc/functions/woo-actions/single-product.php:89
 msgid "Seconds"
-msgstr ""
+msgstr "Segundos"
 
 #: inc/functions/woo-actions/single-product.php:164
 msgid "Awaiting product image"
@@ -10344,11 +10345,11 @@ msgstr ""
 
 #: inc/functions/woo-actions/single-product.php:291
 msgid "Out of stock"
-msgstr ""
+msgstr "Fuera de stock"
 
 #: inc/functions/woo-actions/single-product.php:291
 msgid "In stock"
-msgstr ""
+msgstr "En stock"
 
 #: inc/functions/woo-actions/single-product.php:297
 msgid "Select options"
@@ -10356,11 +10357,11 @@ msgstr "Seleccionar opciones"
 
 #: inc/functions/woocommerce.php:246
 msgid "Grid View"
-msgstr ""
+msgstr "Vista de grilla"
 
 #: inc/functions/woocommerce.php:246
 msgid "List View"
-msgstr ""
+msgstr "Vista de lista"
 
 #: inc/functions/woocommerce.php:547 woocommerce/single-product/review.php:85
 msgid "out of 5"
@@ -10979,7 +10980,7 @@ msgstr ""
 
 #: inc/functions/wpb-elements.php:1240
 msgid "Particles Effect?"
-msgstr ""
+msgstr "Efecto de partículas?"
 
 #: inc/functions/wpb-elements.php:1244
 #, php-format
@@ -12921,7 +12922,7 @@ msgstr ""
 #: views/portfolios/meta.php:13
 #, php-format
 msgid "%s <strong>Details</strong>"
-msgstr ""
+msgstr "%s <strong>Detalles</strong>"
 
 #: views/portfolios/meta.php:51
 #, php-format
@@ -12931,11 +12932,11 @@ msgstr ""
 #: views/portfolios/single/related.php:40
 #, php-format
 msgid "Related %s"
-msgstr ""
+msgstr "Relacionados %s"
 
 #: views/posts/single/share.php:17
 msgid "Share:"
-msgstr ""
+msgstr "Compartir"
 
 #: woocommerce/cart/cart-empty.php:29
 msgid "No products added to the cart"
@@ -12943,7 +12944,7 @@ msgstr ""
 
 #: woocommerce/cart/cart-empty.php:39
 msgid "Return to shop"
-msgstr ""
+msgstr "Regresar a la tienda"
 
 #: woocommerce/cart/mini-cart.php:22
 #, php-format
@@ -13052,7 +13053,7 @@ msgstr "Precio:"
 
 #: woocommerce/loop/add-to-cart.php:122 woocommerce/loop/add-to-cart.php:133
 msgid "Quick View"
-msgstr ""
+msgstr "Vista rápida"
 
 #: woocommerce/loop/orderby.php:15
 msgid "Sort by:"
