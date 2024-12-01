@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: ThemeSky\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-22 08:15+0000\n"
-"PO-Revision-Date: 2024-11-30 21:17-0500\n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2024-12-01 10:22-0500\n"
+"Last-Translator: Checha <czarrj@proton.me>\n"
+"Language-Team: CzarRj\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1159,7 +1159,7 @@ msgid ""
 "responsive"
 msgstr ""
 "Si está activada, vaya a Logos > Configuración para configurar el tamaño de "
-"la imagen y el control deslizante."
+"la imagen y el control deslizante"
 
 #: elementor/woocommerce/products_in_category_tabs.php:67
 msgid "If tab does not have banner, just leave blank"
@@ -2245,7 +2245,7 @@ msgstr "Compartir"
 
 #: templates/social-sharing.php:2
 msgid "Share: "
-msgstr "Compartir:"
+msgstr "Compartir: "
 
 #: elementor/woocommerce/product_deals.php:381
 #: elementor/woocommerce/products_in_category_tabs.php:263
