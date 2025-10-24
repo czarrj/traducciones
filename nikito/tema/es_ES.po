@@ -1,0 +1,5043 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tema Nikito ES\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/bw-kidxtore\n"
+"POT-Creation-Date: 2025-03-25 04:48:39+00:00\n"
+"PO-Revision-Date: 2025-10-23 22:33-0500\n"
+"Last-Translator: Checha <czarrj@proton.me>\n"
+"Language-Team: Nikito\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "404"
+msgstr "404"
+
+msgid "Oops, you got the wrong result!"
+msgstr "¡Vaya, has obtenido un resultado incorrecto!"
+
+msgid "The page you requested could not be found."
+msgstr "No se pudo encontrar la página solicitada."
+
+msgid "Back to home"
+msgstr "Volver al inicio"
+
+msgid "Read more"
+msgstr "Leer más"
+
+msgid "Load more"
+msgstr "Cargar más"
+
+msgid "View More"
+msgstr "Ver más"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Find out more"
+msgstr "Más información"
+
+msgid "Related Courses"
+msgstr ""
+
+msgid "svg"
+msgstr ""
+
+msgid "ADD TO CART"
+msgstr "AÑADIR AL CARRITO"
+
+msgid "instagram"
+msgstr ""
+
+msgid "Instagram"
+msgstr ""
+
+msgid "Don’t show this pop-up again"
+msgstr ""
+
+msgid "logo mobile"
+msgstr ""
+
+msgid "flag"
+msgstr ""
+
+msgid "Read More"
+msgstr "Leer más"
+
+msgid "Style 1 (Replace)"
+msgstr ""
+
+msgid "Style 2 (Replace)"
+msgstr ""
+
+msgid "Style 3 (Replace)"
+msgstr ""
+
+msgid "Style 5 (Replace)"
+msgstr ""
+
+msgid "ALL REVIEWS"
+msgstr ""
+
+msgid "Search For Products"
+msgstr "Buscar productos"
+
+msgid "Categories search"
+msgstr "Búsqueda por categorías"
+
+msgid "Please enter key search to display results."
+msgstr "Ingrese el término para mostrar los resultados."
+
+msgid " items"
+msgstr " artículos"
+
+msgid " item"
+msgstr " artículo"
+
+msgid "Blog"
+msgstr ""
+
+msgid "Product"
+msgstr "Producto"
+
+msgid "Search Result"
+msgstr "Resultado de la búsqueda"
+
+msgid "Product was successfully added to your cart!"
+msgstr "¡El producto se ha añadido correctamente a su carrito!"
+
+msgid "Continue "
+msgstr "Continuar "
+
+msgid "View Cart"
+msgstr "Ver carrito"
+
+msgid "Copyright by BZOTech Theme. All Rights Reserved."
+msgstr "Copyright por Nikito. Todos los derechos reservados."
+
+msgid "logo"
+msgstr ""
+
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+msgid "No any post to display. Please recheck your posts."
+msgstr ""
+
+msgid "Image slider"
+msgstr ""
+
+msgid "Previous post"
+msgstr ""
+
+msgid "Next post"
+msgstr ""
+
+msgid "Related Posts"
+msgstr ""
+
+msgid "Pages:"
+msgstr "Páginas:"
+
+msgid "Total"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Pinterest"
+msgstr ""
+
+msgid "Linkedin"
+msgstr ""
+
+msgid "Tumblr"
+msgstr ""
+
+msgid "Email"
+msgstr "Correo"
+
+msgid "Share"
+msgstr ""
+
+msgid "I wanted you to see this site&amp;body=Check out this site"
+msgstr ""
+
+msgid "Show Sidebar"
+msgstr "Mostrar barra lateral"
+
+msgid "Hide Sidebar"
+msgstr "Ocultar barra lateral"
+
+msgid " of "
+msgstr " de "
+
+msgid "Showing: "
+msgstr "Mostrando: "
+
+msgid "was added to wishlist"
+msgstr ""
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "View page"
+msgstr "Ver página"
+
+msgid "Related products"
+msgstr "Productos relacionados"
+
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+msgid "Filter"
+msgstr "Filtrar"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Filter By Price:"
+msgstr "Filtrar por precio:"
+
+msgid "Clear"
+msgstr "Limpiar"
+
+msgid "Like"
+msgstr ""
+
+msgid "Quickview"
+msgstr ""
+
+msgid "View Details"
+msgstr "Ver detalles"
+
+msgid "Watch video"
+msgstr ""
+
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Write A Review"
+msgstr ""
+
+msgid "Our products"
+msgstr "Nuestros productos"
+
+msgid "Related Products"
+msgstr "Productos relacionados"
+
+msgid "Pingback:"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid " at "
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Comment navigation"
+msgstr ""
+
+msgid "&larr; Older Comments"
+msgstr ""
+
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+msgid "Comments are closed."
+msgstr ""
+
+msgid "Leave a comment"
+msgstr ""
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Web Site"
+msgstr "Web"
+
+msgid "Comment"
+msgstr "Comentario"
+
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Debes <a href=\"%s\">iniciar sesión</a> para publicar un comentario."
+
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Sesión iniciada como  <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" "
+"title=\"Log out of this account\">Cerrar?</a>"
+
+msgid "Leave a Reply %s"
+msgstr ""
+
+msgid "Cancel reply"
+msgstr ""
+
+msgid "Post comment"
+msgstr ""
+
+msgid "Invalid user ID."
+msgstr ""
+
+msgid "Accordion (Global)"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Style 1 Default"
+msgstr ""
+
+msgid "Style 2"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Enter text"
+msgstr ""
+
+msgid "Add Your Content Here"
+msgstr ""
+
+msgid "Template content replace"
+msgstr ""
+
+msgid "Alignment"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Justified"
+msgstr ""
+
+msgid "Add text"
+msgstr ""
+
+msgid "Accordion #1"
+msgstr ""
+
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+msgid "Accordion #2"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Active Icon"
+msgstr ""
+
+msgid "Accordion setting"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Which panel is currently open."
+msgstr ""
+
+msgid "Animate "
+msgstr ""
+
+msgid "The speed of the animation."
+msgstr ""
+
+msgid "Height Style "
+msgstr ""
+
+msgid "Controls the height of the accordion."
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Fill"
+msgstr ""
+
+msgid "Title style"
+msgstr ""
+
+msgid "Icon style"
+msgstr ""
+
+msgid "Content style"
+msgstr ""
+
+msgid "Normal Style"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Background Color"
+msgstr ""
+
+msgid "Text Typography"
+msgstr ""
+
+msgid "Opacity"
+msgstr ""
+
+msgid "Text Shadow"
+msgstr ""
+
+msgid "Padding"
+msgstr ""
+
+msgid "Margin"
+msgstr ""
+
+msgid "Style On Hover"
+msgstr ""
+
+msgid "Color On Hover"
+msgstr ""
+
+msgid "Background Color On Hover"
+msgstr ""
+
+msgid "Typography On Hover"
+msgstr ""
+
+msgid "Opacity On Hover"
+msgstr ""
+
+msgid "Shadow On Hover"
+msgstr ""
+
+msgid "Transition Duration On Hover"
+msgstr ""
+
+msgid "Animation On Hover"
+msgstr ""
+
+msgid "Font Size"
+msgstr ""
+
+msgid "Hover Style"
+msgstr ""
+
+msgid "Size On Hover "
+msgstr ""
+
+msgid "Account manager (Global)"
+msgstr ""
+
+msgid "Sign In"
+msgstr "Iniciar sesión"
+
+msgid "Registration complete. Please check your email."
+msgstr "Registro completado. Por favor, revise su correo electrónico."
+
+msgid "Username or Email Address"
+msgstr "Usuario o correo electrónico"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Remember Me"
+msgstr ""
+
+msgid "Register"
+msgstr "Registrarse"
+
+msgid "Lost your password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+msgid "Or login With"
+msgstr "O inicie sesión con"
+
+msgid "Create an account"
+msgstr "Crear una cuenta"
+
+msgid "The user name or email address is not correct."
+msgstr "El nombre de usuario o el correo electrónico no son correctos."
+
+msgid "Username"
+msgstr "Usuario"
+
+msgid "Registration confirmation will be emailed to you."
+msgstr ""
+"Se le enviará un correo electrónico con la confirmación de su registro."
+
+msgid "Log in"
+msgstr "Entrar"
+
+msgid "Reset password"
+msgstr "Restablecer contraseña"
+
+msgid "Password reset email has been sent."
+msgstr "Se ha enviado un correo electrónico para restablecer la contraseña."
+
+msgid ""
+"The email could not be sent. Possible reason: your host may have disabled "
+"the mail function."
+msgstr ""
+"No se pudo enviar el correo electrónico. Posible motivo: es posible que su "
+"proveedor de alojamiento haya desactivado la función de correo electrónico."
+
+msgid "Get New Password"
+msgstr "Obtener nueva contraseña"
+
+msgid "A password will be e-mailed to you."
+msgstr "Se enviará una contraseña por correo electrónico."
+
+msgid "Style 1 (Default)"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Icon logged"
+msgstr ""
+
+msgid "Type your text to add search button"
+msgstr ""
+
+msgid "Text position"
+msgstr ""
+
+msgid "After icon"
+msgstr ""
+
+msgid "Before icon"
+msgstr ""
+
+msgid "Add class CSS"
+msgstr ""
+
+msgid "Sub links dropdown"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "https://your-link.com"
+msgstr ""
+
+msgid "Show with roles"
+msgstr ""
+
+msgid "Choose roles to show. Default is show with all roles"
+msgstr ""
+
+msgid "Add links"
+msgstr "Agregar enlacesHaz clic para usar esta alternativa"
+
+msgid "Justify Content"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Start"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Center"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "End"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Space Between"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Space Around"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Space Evenly"
+msgstr ""
+
+msgid "Align Items"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Stretch"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Size icon"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Icon Color"
+msgstr ""
+
+msgid "Text Color"
+msgstr ""
+
+msgid "Typography button text"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Border Radius"
+msgstr ""
+
+msgid "Hover"
+msgstr ""
+
+msgid "Padding icon"
+msgstr ""
+
+msgid "Links"
+msgstr "Enlaces"
+
+msgid "Space"
+msgstr ""
+
+msgid "Hello %s"
+msgstr "Hola %s"
+
+msgid "My account"
+msgstr "Mi cuenta"
+
+msgid "Banner info (Global)"
+msgstr ""
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Banner Style"
+msgstr ""
+
+msgid "style 1 (Default)"
+msgstr ""
+
+msgid "Choose Image"
+msgstr "Elegir imagen"
+
+msgid "Width image"
+msgstr ""
+
+msgid "Full width 100%"
+msgstr ""
+
+msgid "Alignment image"
+msgstr ""
+
+msgid "Link image"
+msgstr ""
+
+msgid "Text info"
+msgstr ""
+
+msgid "Transform rotate"
+msgstr ""
+
+msgid "Text Color hover"
+msgstr ""
+
+msgid "Typography hover"
+msgstr ""
+
+msgid "Transform rotate hover"
+msgstr ""
+
+msgid "Alignment Info"
+msgstr ""
+
+msgid "Tag wrap text"
+msgstr ""
+
+msgid "H2"
+msgstr ""
+
+msgid "H3"
+msgstr ""
+
+msgid "H4"
+msgstr ""
+
+msgid "H5"
+msgstr ""
+
+msgid "H6"
+msgstr ""
+
+msgid "p"
+msgstr ""
+
+msgid "Span"
+msgstr ""
+
+msgid "Strong"
+msgstr ""
+
+msgid "Div"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "a"
+msgstr ""
+
+msgid "Link (url)"
+msgstr ""
+
+msgid "Add class style"
+msgstr ""
+
+msgid "Add class style by theme"
+msgstr ""
+
+msgid "Enter name class"
+msgstr ""
+
+msgid "Label button"
+msgstr ""
+
+msgid "Icon position"
+msgstr ""
+
+msgid "After text"
+msgstr ""
+
+msgid "Before text"
+msgstr ""
+
+msgid "Style 1"
+msgstr ""
+
+msgid "Style 3"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Font Size Icon"
+msgstr ""
+
+msgid "Direction"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Row - horizontal"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Column - vertical"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Row - reversed"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Column - reversed"
+msgstr ""
+
+msgid "Gap"
+msgstr ""
+
+msgid "Wrap"
+msgstr ""
+
+msgid "No Wrap"
+msgstr ""
+
+msgid ""
+"Items within the container can stay in a single line (No wrap), or break "
+"into multiple lines (Wrap)."
+msgstr ""
+
+msgid "Add button"
+msgstr ""
+
+msgid "Choose Image 2 of Effect"
+msgstr ""
+
+msgid "Overflow"
+msgstr ""
+
+msgid "Hidden"
+msgstr ""
+
+msgid "Inherit"
+msgstr ""
+
+msgid "Background Overlay"
+msgstr ""
+
+msgid "Transition Duration"
+msgstr ""
+
+msgid "Hover Animation"
+msgstr ""
+
+msgid "Effect Image"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "Zoom Overlay"
+msgstr ""
+
+msgid "Zoom out"
+msgstr ""
+
+msgid "Zoom out Overlay"
+msgstr ""
+
+msgid "Fade out-in"
+msgstr ""
+
+msgid "Zoom Fade out-in"
+msgstr ""
+
+msgid "Fade in-out"
+msgstr ""
+
+msgid "Zoom rotate"
+msgstr ""
+
+msgid "Zoom rotate Fade out-in"
+msgstr ""
+
+msgid "Overlay"
+msgstr ""
+
+msgid "Overlay Style 2"
+msgstr ""
+
+msgid "Zoom image line"
+msgstr ""
+
+msgid "Gray image"
+msgstr ""
+
+msgid "Gray image line"
+msgstr ""
+
+msgid "Pull curtain"
+msgstr ""
+
+msgid "Pull curtain gray image"
+msgstr ""
+
+msgid "Pull curtain zoom image"
+msgstr ""
+
+msgid "Folding the edge"
+msgstr ""
+
+msgid "Hover icon"
+msgstr ""
+
+msgid "Select icon hover"
+msgstr ""
+
+msgid "Wrap info banner"
+msgstr ""
+
+msgid "Max Width"
+msgstr ""
+
+msgid "Style Info"
+msgstr ""
+
+msgid "Inner"
+msgstr ""
+
+msgid "Outter"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Enter parameter for the top position (Ex: 0px | 10px | 10% | auto)"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Enter parameter for the bottom position (Ex: 0px | 10px | 10% | auto)"
+msgstr ""
+
+msgid "Enter parameter for the left position (Ex: 0px | 10px | 10% | auto)"
+msgstr ""
+
+msgid "Enter parameter for the Right position (Ex: 0px | 10px | 10% | auto)"
+msgstr ""
+
+msgid "Box Shadow"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Inline"
+msgstr ""
+
+msgid "Block"
+msgstr ""
+
+msgid "Inline block\t"
+msgstr ""
+
+msgid "Flex"
+msgstr ""
+
+msgid "Add class style by theme root"
+msgstr ""
+
+msgid "Info banner"
+msgstr ""
+
+msgid "Button wrap"
+msgstr ""
+
+msgid "Hight"
+msgstr ""
+
+msgid "Breadcrumb (Global)"
+msgstr ""
+
+msgid "You can change the display style here"
+msgstr ""
+
+msgid "Flex Container Control (Box)"
+msgstr ""
+
+msgid "Style item breadcrumb"
+msgstr ""
+
+msgid "Style item breadcrumb last child"
+msgstr ""
+
+msgid "Button (Global)"
+msgstr ""
+
+msgid "Style 4"
+msgstr ""
+
+msgid "Style Custom"
+msgstr ""
+
+msgid "Button name"
+msgstr ""
+
+msgid "Enter text of button"
+msgstr ""
+
+msgid "Icon image"
+msgstr ""
+
+msgid "You can choose the icon image here (Replace for icon)"
+msgstr ""
+
+msgid "Icon image hover"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Inline block"
+msgstr ""
+
+msgid "block"
+msgstr ""
+
+msgid "Flex Container Control"
+msgstr ""
+
+msgid "Typography"
+msgstr ""
+
+msgid "Color hover"
+msgstr ""
+
+msgid "Background hover"
+msgstr ""
+
+msgid "button shadow hover"
+msgstr ""
+
+msgid "Border hover"
+msgstr ""
+
+msgid "Border Radius hover"
+msgstr ""
+
+msgid "Padding hover"
+msgstr ""
+
+msgid "Animation Hover"
+msgstr ""
+
+msgid "Color icon"
+msgstr ""
+
+msgid "Border type"
+msgstr ""
+
+msgid "Size icon hover"
+msgstr ""
+
+msgid "Color icon hover"
+msgstr ""
+
+msgid "Background Hover"
+msgstr ""
+
+msgid "Margin icon"
+msgstr ""
+
+msgid "Course (Global)"
+msgstr ""
+
+msgid "Icon Space left"
+msgstr ""
+
+msgid "Icon Space right"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Items custom by display"
+msgstr ""
+
+msgid ""
+"Enter item for screen width(px) format is width:value and separate values by "
+"\",\". Example is 0:1,375:2,991:3,1170:4"
+msgstr ""
+
+msgid "Space(px)"
+msgstr ""
+
+msgid "For example: 20"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Speed(ms)"
+msgstr ""
+
+msgid "For example: 3000 or 5000"
+msgstr ""
+
+msgid "Auto play"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Loop"
+msgstr ""
+
+msgid "Navigation"
+msgstr ""
+
+msgid "Style 2 (Vertical)"
+msgstr ""
+
+msgid "Style 2 (Group)"
+msgstr ""
+
+msgid "Default custom"
+msgstr ""
+
+msgid "Pagination"
+msgstr ""
+
+msgid "Style 1 (Square)"
+msgstr ""
+
+msgid "style 2 (Round)"
+msgstr ""
+
+msgid "style 3 (Line)"
+msgstr ""
+
+msgid "style 4 (Number)"
+msgstr ""
+
+msgid "Scrollbar"
+msgstr ""
+
+msgid "Border"
+msgstr ""
+
+msgid "Slider Navigation"
+msgstr ""
+
+msgid "Icon next"
+msgstr ""
+
+msgid "Icon prev"
+msgstr ""
+
+msgid "Slider Pagination"
+msgstr ""
+
+msgid "Active status"
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Display type (Layout)"
+msgstr ""
+
+msgid "Default (Grid)"
+msgstr ""
+
+msgid "Active type"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Grid pagination"
+msgstr ""
+
+msgid "Item style"
+msgstr ""
+
+msgid "Column"
+msgstr ""
+
+msgid "Column custom by display"
+msgstr ""
+
+msgid "Grid type"
+msgstr ""
+
+msgid "Masonry"
+msgstr ""
+
+msgid "Grid custom"
+msgstr ""
+
+msgid "Column grid"
+msgstr ""
+
+msgid "Enter number column"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "2"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "4"
+msgstr ""
+
+msgid "5"
+msgstr ""
+
+msgid "6"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "8"
+msgstr ""
+
+msgid "9"
+msgstr ""
+
+msgid "auto"
+msgstr ""
+
+msgid "Row grid"
+msgstr ""
+
+msgid "Enter number row"
+msgstr ""
+
+msgid "Add column row"
+msgstr ""
+
+msgid "Item list style"
+msgstr ""
+
+msgid "Style 1 - default"
+msgstr ""
+
+msgid "Style 3 - menu"
+msgstr ""
+
+msgid "Thumbnail Width"
+msgstr ""
+
+msgid "Thumbnail"
+msgstr ""
+
+msgid "Meta data"
+msgstr ""
+
+msgid "Meta"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Total views"
+msgstr ""
+
+msgid "Excerpt"
+msgstr ""
+
+msgid "Number of text for excerpt"
+msgstr ""
+
+msgid "Query"
+msgstr "Consulta"
+
+msgid "Number"
+msgstr ""
+
+msgid "Order by"
+msgstr "Ordenar por"
+
+msgid "ID"
+msgstr ""
+
+msgid "Last Modified Date"
+msgstr ""
+
+msgid "Parent"
+msgstr ""
+
+msgid "Post views"
+msgstr ""
+
+msgid "Order"
+msgstr "Orden"
+
+msgid "DESC"
+msgstr ""
+
+msgid "ASC"
+msgstr ""
+
+msgid "Show by IDs"
+msgstr ""
+
+msgid "Enter IDs list. The values separated by \",\". Example 11,12"
+msgstr ""
+
+msgid "11,12"
+msgstr ""
+
+msgid ""
+"Enter slug categories. The values separated by \",\". Example cat-1,cat-2. "
+"Default will show all categories"
+msgstr ""
+
+msgid "cat-1,cat-2"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Space item"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Space meta item"
+msgstr ""
+
+msgid "Icon size"
+msgstr ""
+
+msgid "Icon color"
+msgstr ""
+
+msgid "Space icon"
+msgstr ""
+
+msgid "Space bottom"
+msgstr ""
+
+msgid "Filter product"
+msgstr ""
+
+msgid "Top filter"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Filter Button"
+msgstr "Botón Filtro"
+
+msgid "2 Column"
+msgstr ""
+
+msgid "3 Column"
+msgstr ""
+
+msgid "4 Column"
+msgstr ""
+
+msgid ""
+"Enter slug categories. The values separated by \",\". Example cat-1,cat-2"
+msgstr ""
+
+msgid "Attributes"
+msgstr "Atributos"
+
+msgid ""
+"Enter slug attributes. The values separated by \",\". Example attribute-1,"
+"attribute-2"
+msgstr ""
+
+msgid "Headding and Text Editor (Global)"
+msgstr ""
+
+msgid "Our Blog"
+msgstr ""
+
+msgid "Search results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+msgid "courses"
+msgstr ""
+
+msgid "Text Editor"
+msgstr ""
+
+msgid "Heading style 1"
+msgstr ""
+
+msgid "Enter your title"
+msgstr ""
+
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+msgid "Auto title by page"
+msgstr ""
+
+msgid "Show line"
+msgstr ""
+
+msgid "Title Single Post"
+msgstr ""
+
+msgid "Title Single Product"
+msgstr ""
+
+msgid "HTML Tag"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Text Background"
+msgstr ""
+
+msgid "Blend Mode"
+msgstr ""
+
+msgid "Multiply"
+msgstr ""
+
+msgid "Screen"
+msgstr ""
+
+msgid "Darken"
+msgstr ""
+
+msgid "Lighten"
+msgstr ""
+
+msgid "Color Dodge"
+msgstr ""
+
+msgid "Saturation"
+msgstr ""
+
+msgid "Difference"
+msgstr ""
+
+msgid "Exclusion"
+msgstr ""
+
+msgid "Hue"
+msgstr ""
+
+msgid "Luminosity"
+msgstr ""
+
+msgid "Contents"
+msgstr ""
+
+msgid "Initial"
+msgstr ""
+
+msgid "List item"
+msgstr ""
+
+msgid "Inline table"
+msgstr ""
+
+msgid "Inline grid"
+msgstr ""
+
+msgid "Inline flex"
+msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "Table caption"
+msgstr ""
+
+msgid "Table column group"
+msgstr ""
+
+msgid "Table header group"
+msgstr ""
+
+msgid "Table footer group"
+msgstr ""
+
+msgid "Table row group"
+msgstr ""
+
+msgid "Table cell"
+msgstr ""
+
+msgid "Table column"
+msgstr ""
+
+msgid "Table row"
+msgstr ""
+
+msgid "Run in"
+msgstr ""
+
+msgid "Line style"
+msgstr ""
+
+msgid "Info Box (Global)"
+msgstr ""
+
+msgid "Style 1 (Sevice)"
+msgstr ""
+
+msgid "Style 2 (Team)"
+msgstr ""
+
+msgid "Style 3 (Team)"
+msgstr ""
+
+msgid "Style 4 (Countdown)"
+msgstr ""
+
+msgid "Style 5 (Menu vertical - Home 4)"
+msgstr ""
+
+msgid "Style 6 (Countdown product)"
+msgstr ""
+
+msgid "Image hover"
+msgstr ""
+
+msgid "You can add links for the element here"
+msgstr ""
+
+msgid "Add Icon"
+msgstr ""
+
+msgid "Add Your Title Text Here"
+msgstr ""
+
+msgid "Show by ID"
+msgstr ""
+
+msgid "Enter ID product."
+msgstr ""
+
+msgid "Set date"
+msgstr ""
+
+msgid "Title day"
+msgstr ""
+
+msgid "Enter text (Leave it blank will hide it)"
+msgstr ""
+
+msgid "Title hour"
+msgstr ""
+
+msgid "Title min"
+msgstr ""
+
+msgid "Title sec"
+msgstr ""
+
+msgid "The style title"
+msgstr ""
+
+msgid "style 1 (Home 4)"
+msgstr ""
+
+msgid "style 2 (Home 5)"
+msgstr ""
+
+msgid "The style show dropdow menu"
+msgstr ""
+
+msgid "Show dropdow menu"
+msgstr ""
+
+msgid "Hide dropdow menu"
+msgstr ""
+
+msgid "Only show dropdown menu in homepage"
+msgstr ""
+
+msgid "Template content (Menu sub of item)"
+msgstr ""
+
+msgid "Add item menu"
+msgstr ""
+
+msgid "Style box sub mneu"
+msgstr ""
+
+msgid "Flex Container Control (Info)"
+msgstr ""
+
+msgid "Image style"
+msgstr ""
+
+msgid "Number style"
+msgstr ""
+
+msgid "Filters On Hover"
+msgstr ""
+
+msgid "Set date by class (Attribute: data-date)"
+msgstr ""
+
+msgid "Add class selector of date"
+msgstr ""
+
+msgid "Instagram (Global)"
+msgstr ""
+
+msgid "Style Item"
+msgstr ""
+
+msgid "Action type click"
+msgstr ""
+
+msgid "Popup"
+msgstr ""
+
+msgid "Media from"
+msgstr ""
+
+msgid "Media library"
+msgstr ""
+
+msgid "Token"
+msgstr ""
+
+msgid "Photos number"
+msgstr ""
+
+msgid "Caption"
+msgstr ""
+
+msgid "Text hover"
+msgstr ""
+
+msgid "Add images"
+msgstr ""
+
+msgid "Grid Item"
+msgstr ""
+
+msgid "Grid setting"
+msgstr ""
+
+msgid "Space top bottom"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Slider Scrollbar"
+msgstr ""
+
+msgid "Auto show scrollbar"
+msgstr ""
+
+msgid "Background scrollbar"
+msgstr ""
+
+msgid "Color scrollbar"
+msgstr ""
+
+msgid "Border radius scrollbar"
+msgstr ""
+
+msgid "Slider Settings"
+msgstr ""
+
+msgid "Auto width"
+msgstr ""
+
+msgid "List Link (Global)"
+msgstr ""
+
+msgid "Style 1 - Inline"
+msgstr ""
+
+msgid "Style 2 - Block"
+msgstr ""
+
+msgid "Title text"
+msgstr ""
+
+msgid "Link Simple"
+msgstr ""
+
+msgid "Link ID"
+msgstr ""
+
+msgid "Get Link by ID"
+msgstr ""
+
+msgid "For example ID: 6"
+msgstr ""
+
+msgid "Style private"
+msgstr ""
+
+msgid "Title Color"
+msgstr ""
+
+msgid "Border Color"
+msgstr ""
+
+msgid "Style private hover"
+msgstr ""
+
+msgid "Icon Color Hover"
+msgstr ""
+
+msgid "Title Color Hover"
+msgstr ""
+
+msgid "Background Color hover"
+msgstr ""
+
+msgid "Border Color hover"
+msgstr ""
+
+msgid "Add class hover style"
+msgstr ""
+
+msgid "Add class hover style by theme"
+msgstr ""
+
+msgid "Add list"
+msgstr ""
+
+msgid "Link 1"
+msgstr ""
+
+msgid "Link 2"
+msgstr ""
+
+msgid "Icon space with text"
+msgstr ""
+
+msgid "Logo (Global)"
+msgstr ""
+
+msgid "image"
+msgstr ""
+
+msgid "Mailchimp (Global)"
+msgstr ""
+
+msgid "Default (Home 1)"
+msgstr ""
+
+msgid "Style 2 (Newletter popup)"
+msgstr ""
+
+msgid "Style 3 (Home 2)"
+msgstr ""
+
+msgid "Style 4 (Home 3)"
+msgstr ""
+
+msgid "Style 5 (Home 6)"
+msgstr ""
+
+msgid "Style 6 (Home 7)"
+msgstr ""
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Enter description"
+msgstr "Ingrese la descripción"
+
+msgid "Icon social"
+msgstr ""
+
+msgid "Add item social"
+msgstr ""
+
+msgid "Form"
+msgstr ""
+
+msgid "Form ID"
+msgstr ""
+
+msgid "Placeholder"
+msgstr ""
+
+msgid "Your email address"
+msgstr "Tu correo electrónico"
+
+msgid "Type your placeholder here"
+msgstr ""
+
+msgid "Input"
+msgstr ""
+
+msgid "Menu (Global)"
+msgstr ""
+
+msgid "Menu settings"
+msgstr ""
+
+msgid "Select menu"
+msgstr ""
+
+msgid "Menu style"
+msgstr ""
+
+msgid "Menu icon"
+msgstr ""
+
+msgid "Menu sticky"
+msgstr ""
+
+msgid "Mega menu max width"
+msgstr ""
+
+msgid ""
+"This index is used to determine the maximum width of the mega menu. Default "
+"is equal to container: 1440px"
+msgstr ""
+
+msgid "Justify Content Text"
+msgstr ""
+
+msgid "Menu position content"
+msgstr ""
+
+msgid "Menu icon title "
+msgstr ""
+
+msgid "Display menu style on mobile"
+msgstr ""
+
+msgid "Default dropdown type"
+msgstr ""
+
+msgid "Side Left"
+msgstr ""
+
+msgid "Side Right"
+msgstr ""
+
+msgid "Border radius"
+msgstr ""
+
+msgid "Menu side/mobile"
+msgstr ""
+
+msgid "Choose Mobile Menu Logo"
+msgstr ""
+
+msgid "Item text color"
+msgstr ""
+
+msgid "Head Padding"
+msgstr ""
+
+msgid "Menu item style"
+msgstr ""
+
+msgid "Spacing"
+msgstr ""
+
+msgid "Item background"
+msgstr ""
+
+msgid "Item text color (Active)"
+msgstr ""
+
+msgid "Items Border"
+msgstr ""
+
+msgid "Border Last Child"
+msgstr ""
+
+msgid "Border last Child"
+msgstr ""
+
+msgid "Border First Child"
+msgstr ""
+
+msgid "Effect hover style"
+msgstr ""
+
+msgid "Line bottom"
+msgstr ""
+
+msgid "Line top"
+msgstr ""
+
+msgid "Background Line"
+msgstr ""
+
+msgid "Height Line"
+msgstr ""
+
+msgid "Submenu item style"
+msgstr ""
+
+msgid "Submenu Indicator"
+msgstr ""
+
+msgid "Line Arrow"
+msgstr ""
+
+msgid "Plus"
+msgstr ""
+
+msgid "Fill Arrow"
+msgstr ""
+
+msgid "Indicator color"
+msgstr ""
+
+msgid "Indicator Margin"
+msgstr ""
+
+msgid "Item text color (hover)"
+msgstr ""
+
+msgid "Item background (hover)"
+msgstr ""
+
+msgid "Item background (Active)"
+msgstr ""
+
+msgid "Sub Menu Items Border"
+msgstr ""
+
+msgid "Submenu panel style"
+msgstr ""
+
+msgid "Panel Menu Border"
+msgstr ""
+
+msgid "Container background"
+msgstr ""
+
+msgid "Container width"
+msgstr ""
+
+msgid "Icon menu Style"
+msgstr ""
+
+msgid "Style icon"
+msgstr ""
+
+msgid "Style title icon"
+msgstr ""
+
+msgid "Mobile Menu Logo"
+msgstr ""
+
+msgid "Mini Cart (Global)"
+msgstr ""
+
+msgid "Style default"
+msgstr ""
+
+msgid "Content Style"
+msgstr ""
+
+msgid "Dropdown"
+msgstr ""
+
+msgid "Side right"
+msgstr ""
+
+msgid "Side left"
+msgstr ""
+
+msgid "Show price"
+msgstr "Ver precio"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Style box cart"
+msgstr ""
+
+msgid "Style box label and price cart"
+msgstr ""
+
+msgid "Direction Text"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Column"
+msgstr ""
+
+msgctxt "Flex Container Control"
+msgid "Row"
+msgstr ""
+
+msgid "Style elementor cart"
+msgstr ""
+
+msgid "Label Color"
+msgstr ""
+
+msgid "Price Color"
+msgstr ""
+
+msgid "Typography Label"
+msgstr ""
+
+msgid "Typography Price"
+msgstr ""
+
+msgid "Label Color Hover"
+msgstr ""
+
+msgid "Price Color Hover"
+msgstr ""
+
+msgid "Typography Label Hover"
+msgstr ""
+
+msgid "Typography Price Hover"
+msgstr ""
+
+msgid "Border Hover"
+msgstr ""
+
+msgid "Border Radius Hover"
+msgstr ""
+
+msgid "Color number"
+msgstr ""
+
+msgid "Position right"
+msgstr ""
+
+msgid "Position top"
+msgstr ""
+
+msgid "Dropdown/side"
+msgstr ""
+
+msgid "Title Typography"
+msgstr ""
+
+msgid "Dropdown position"
+msgstr ""
+
+msgid "Background overlay"
+msgstr ""
+
+msgid "Footer side"
+msgstr ""
+
+msgid "Space text"
+msgstr ""
+
+msgid "Multi language (Global)"
+msgstr ""
+
+msgid "Style by Wpml"
+msgstr ""
+
+msgid "Style by Polylang"
+msgstr ""
+
+msgid "Demo style"
+msgstr ""
+
+msgid "Enter logo flag"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Viet Nam"
+msgstr ""
+
+msgid "Show Flag"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Show Label"
+msgstr ""
+
+msgid "Label style"
+msgstr ""
+
+msgid "Label item style"
+msgstr ""
+
+msgid "Dropdown style"
+msgstr ""
+
+msgid "Posts (Global)"
+msgstr ""
+
+msgid "Default (Grid - list)"
+msgstr ""
+
+msgid "Grid masonry (Home 7)"
+msgstr ""
+
+msgid "Random image size"
+msgstr ""
+
+msgid "Random image size mansory type (EX: 300x350,300x300,300x250)"
+msgstr ""
+
+msgid "Pricing Table (Global)"
+msgstr ""
+
+msgid "Text button"
+msgstr ""
+
+msgid "Main Color"
+msgstr ""
+
+msgid "Products list (Global)"
+msgstr ""
+
+msgid "Grid Masory"
+msgstr ""
+
+msgid "Slider (Start feeling better)"
+msgstr ""
+
+msgid "Item Grid Style"
+msgstr ""
+
+msgid "Display tab"
+msgstr ""
+
+msgid "Style 2 (home 4)"
+msgstr ""
+
+msgid "Style 3 (home 5)"
+msgstr ""
+
+msgid "Style 4 (home 7)"
+msgstr ""
+
+msgid "Style 5 (home 13)"
+msgstr ""
+
+msgid "Quick View"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+msgid "Show countdown timer"
+msgstr "Mostrar reloj de cuenta atrás"
+
+msgid "Flash Sale"
+msgstr "Venta flash"
+
+msgid "Product type"
+msgstr "Tipo de producto"
+
+msgid "Trending"
+msgstr "Tendencias"
+
+msgid "Featured Products"
+msgstr "Productos destacados"
+
+msgid "Best Sellers"
+msgstr ""
+
+msgid "On Sale"
+msgstr "En oferta"
+
+msgid "Top Rate"
+msgstr ""
+
+msgid "Most View"
+msgstr "Más Visto"
+
+msgid "Menu Order"
+msgstr ""
+
+msgid "List setting"
+msgstr ""
+
+msgid "Item List Style"
+msgstr ""
+
+msgid "Excerpt list"
+msgstr ""
+
+msgid "Grid Setting"
+msgstr ""
+
+msgid "Tab"
+msgstr ""
+
+msgid "Title Tab"
+msgstr ""
+
+msgid "Dont miss this weeks sales"
+msgstr ""
+
+msgid "Tab Title"
+msgstr ""
+
+msgid "Top rate"
+msgstr ""
+
+msgid "Most view"
+msgstr ""
+
+msgid "Menu order"
+msgstr ""
+
+msgid "Title Button"
+msgstr ""
+
+msgid "View All"
+msgstr ""
+
+msgid "Link Button"
+msgstr ""
+
+msgid "Add tab"
+msgstr ""
+
+msgid "Line clamp"
+msgstr ""
+
+msgid "Min height"
+msgstr ""
+
+msgid "Regular"
+msgstr ""
+
+msgid "Sale"
+msgstr ""
+
+msgid "Background image"
+msgstr ""
+
+msgid "Item width"
+msgstr ""
+
+msgid "Item height"
+msgstr ""
+
+msgid "Rotate"
+msgstr ""
+
+msgid "Zoom Out"
+msgstr ""
+
+msgid "Translate"
+msgstr ""
+
+msgid "Masory settings"
+msgstr ""
+
+msgid "Group item products"
+msgstr ""
+
+msgid "Group the number of products into 1  item of slider"
+msgstr ""
+
+msgid "Space item (px)"
+msgstr ""
+
+msgid "Replace style or Insert template"
+msgstr ""
+
+msgid "Replace the display style or insert content in the template"
+msgstr ""
+
+msgid "Add layout masory"
+msgstr ""
+
+msgid "Style 3 (Group bottom)"
+msgstr ""
+
+msgid "Padding Column"
+msgstr ""
+
+msgid "Search form (Global)"
+msgstr "Formulario búsqueda (Global)"
+
+msgid "Style 2 (Home 7)"
+msgstr ""
+
+msgid "Style 3 (Home 8)"
+msgstr ""
+
+msgid "Style 4 (Home 10)"
+msgstr ""
+
+msgid "Style icon (Icon popup)"
+msgstr ""
+
+msgid "Search button"
+msgstr "Botón búsqueda"
+
+msgid "Icon - popup"
+msgstr ""
+
+msgid "Enter key to search"
+msgstr "Ingrese el término para buscar"
+
+msgid "Search in"
+msgstr "Buscar en"
+
+msgid "Post"
+msgstr ""
+
+msgid "All"
+msgstr "Todo"
+
+msgid "Show choose category"
+msgstr "Mostrar elegir categoría"
+
+msgid "Live search"
+msgstr "Búsqueda en vivo"
+
+msgid "Categories dropdown"
+msgstr ""
+
+msgid "All categories"
+msgstr "Todas las categorías"
+
+msgid "Type your title here"
+msgstr ""
+
+msgid "Style icon popup"
+msgstr ""
+
+msgid "Line Height"
+msgstr ""
+
+msgid "Typography Text"
+msgstr ""
+
+msgid "Text Color Hover"
+msgstr ""
+
+msgid "Box Shadow Hover"
+msgstr ""
+
+msgid "Style input"
+msgstr ""
+
+msgid "Style box live"
+msgstr ""
+
+msgid "Left position"
+msgstr ""
+
+msgid "Style form"
+msgstr ""
+
+msgid "Slider (Global)"
+msgstr ""
+
+msgid "Style 2 (Category home 1)"
+msgstr ""
+
+msgid "Style 3 (Category home 2)"
+msgstr ""
+
+msgid "Style 4 (Testimonial home 1)"
+msgstr ""
+
+msgid "Style 5 (Testimonial home 2)"
+msgstr ""
+
+msgid "Style 6 (Category home 3)"
+msgstr ""
+
+msgid "Style 7 (Testimonial home 3)"
+msgstr ""
+
+msgid "Style 8 (Category home 4)"
+msgstr ""
+
+msgid "Style 9 (Category home 5)"
+msgstr ""
+
+msgid "Style 10 (Testimonial home 7)"
+msgstr ""
+
+msgid "Style 11 (Category home 8)"
+msgstr ""
+
+msgid "Style 12 (Category home 16)"
+msgstr ""
+
+msgid "Slider navigation gallery"
+msgstr ""
+
+msgid "Background slider"
+msgstr ""
+
+msgid "Background parallax"
+msgstr ""
+
+msgid "Height Background Slider"
+msgstr ""
+
+msgid "Content text"
+msgstr ""
+
+msgid "Content box"
+msgstr ""
+
+msgid "Box item"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "style 4 (Line white)"
+msgstr ""
+
+msgid "style 5 (Number)"
+msgstr ""
+
+msgid "Slider type"
+msgstr ""
+
+msgid "Set up slider according to the available template"
+msgstr ""
+
+msgid "Marquee type"
+msgstr ""
+
+msgid "Opacity hover"
+msgstr ""
+
+msgid "Filters hover"
+msgstr ""
+
+msgid "Overlay hover"
+msgstr ""
+
+msgid "Transition Duration hover"
+msgstr ""
+
+msgid "Template content"
+msgstr ""
+
+msgid "Get category"
+msgstr ""
+
+msgid "You can change the display category here"
+msgstr ""
+
+msgid "Button name 2"
+msgstr ""
+
+msgid "Action of the image"
+msgstr ""
+
+msgid "Number star"
+msgstr ""
+
+msgid "1 star"
+msgstr ""
+
+msgid "2 star"
+msgstr ""
+
+msgid "3 star"
+msgstr ""
+
+msgid "4 star"
+msgstr ""
+
+msgid "5 star"
+msgstr ""
+
+msgid "Countdown number"
+msgstr ""
+
+msgid "After countdown number"
+msgstr ""
+
+msgid "Title countdown"
+msgstr ""
+
+msgid "Countdown number 2"
+msgstr ""
+
+msgid "After countdown number 2"
+msgstr ""
+
+msgid "Title countdown 2"
+msgstr ""
+
+msgid "Add slide item"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "Tab (Global)"
+msgstr ""
+
+msgid "Style 1 (Basic)"
+msgstr ""
+
+msgid "Title header"
+msgstr ""
+
+msgid "Title & Description"
+msgstr ""
+
+msgid "Icon title"
+msgstr ""
+
+msgid "Tab Content"
+msgstr ""
+
+msgid "Tabs Items"
+msgstr ""
+
+msgid "Tab #1"
+msgstr ""
+
+msgid "Tab #2"
+msgstr ""
+
+msgid "Section Style"
+msgstr ""
+
+msgid "Header Tab"
+msgstr ""
+
+msgid "Header tab list item"
+msgstr ""
+
+msgid "Header tab item"
+msgstr ""
+
+msgid "Content tab"
+msgstr ""
+
+msgid "Header title"
+msgstr ""
+
+msgid "Style header title"
+msgstr ""
+
+msgid "Style tab item"
+msgstr ""
+
+msgid "Style icon image"
+msgstr ""
+
+msgid "Justify"
+msgstr ""
+
+msgid "Style On Active"
+msgstr ""
+
+msgid "Tool Panel (Global)"
+msgstr ""
+
+msgid "Image preview"
+msgstr ""
+
+msgid "Desc"
+msgstr ""
+
+msgid "Link Buy"
+msgstr ""
+
+msgid "Link Support"
+msgstr ""
+
+msgid "Link Guide"
+msgstr ""
+
+msgid "Title Demo"
+msgstr ""
+
+msgid "Demo 1"
+msgstr ""
+
+msgid "Image Demo"
+msgstr ""
+
+msgid "Link Demo"
+msgstr ""
+
+msgid "Items demo"
+msgstr ""
+
+msgid "Install Required Plugins"
+msgstr ""
+
+msgid "Install Plugins"
+msgstr ""
+
+msgid "Installing Plugin: %s"
+msgstr ""
+
+msgid "Updating Plugin: %s"
+msgstr ""
+
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+msgid "Return to the Dashboard"
+msgstr ""
+
+msgid "Plugin activated successfully."
+msgstr ""
+
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+msgid "Dismiss this notice"
+msgstr ""
+
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+msgid "Update Required"
+msgstr ""
+
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+msgid "TGMPA v%s"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Recommended"
+msgstr ""
+
+msgid "WordPress Repository"
+msgstr ""
+
+msgid "External Source"
+msgstr ""
+
+msgid "Pre-Packaged"
+msgstr ""
+
+msgid "Not Installed"
+msgstr ""
+
+msgid "Installed But Not Activated"
+msgstr ""
+
+msgid "Required Update not Available"
+msgstr ""
+
+msgid "Requires Update"
+msgstr ""
+
+msgid "Update recommended"
+msgstr ""
+
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+msgid "Installed version:"
+msgstr ""
+
+msgid "Minimum required version:"
+msgstr ""
+
+msgid "Available version:"
+msgstr ""
+
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+msgid "Plugin"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Install %2$s"
+msgstr ""
+
+msgid "Update %2$s"
+msgstr ""
+
+msgid "Activate %2$s"
+msgstr ""
+
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+msgid "Plugin activation failed."
+msgstr ""
+
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+msgid "The installation of %1$s failed."
+msgstr ""
+
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+msgid "All installations and activations have been completed."
+msgstr ""
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+msgid "%1$s installed successfully."
+msgstr ""
+
+msgid "All installations have been completed."
+msgstr ""
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+msgid "Show Details"
+msgstr ""
+
+msgid "Hide Details"
+msgstr ""
+
+msgid "Select Icon"
+msgstr ""
+
+msgid "Element skit - Icons"
+msgstr ""
+
+msgid "La - Icons"
+msgstr ""
+
+msgid "BZOTECH"
+msgstr ""
+
+msgid "You do not have permission to do this"
+msgstr ""
+
+msgid "Importer Class Was Not Installed"
+msgstr ""
+
+msgid "Plugin: Bzotech core must be installed first. Stop working!"
+msgstr ""
+
+msgid "Importing the demo theme options..."
+msgstr ""
+
+msgid "DONE!"
+msgstr ""
+
+msgid "Theme option contain NULL content. Stop working!"
+msgstr ""
+
+msgid "Importing the demo widgets..."
+msgstr ""
+
+msgid "Widget option contain NULL content. Stop working!"
+msgstr ""
+
+msgid "File Not Found. Stop working!"
+msgstr ""
+
+msgid "Setting WooCommerce options..."
+msgstr ""
+
+msgid "All Done! Have Fun"
+msgstr ""
+
+msgid "Importing menu settings ..."
+msgstr ""
+
+msgid "Importing elementor settings ..."
+msgstr ""
+
+msgid "Setting reading options..."
+msgstr ""
+
+msgid "Enable Mega menu"
+msgstr ""
+
+msgid "Custom width Mega menu. Example \"500px\"."
+msgstr ""
+
+msgid "Image Preview"
+msgstr ""
+
+msgid "Content From Mega Item"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "%s (Invalid)"
+msgstr ""
+
+msgid "%s (Pending)"
+msgstr ""
+
+msgid "sub item"
+msgstr ""
+
+msgid "Move up"
+msgstr ""
+
+msgid "Move down"
+msgstr ""
+
+msgid "Edit Menu Item"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Navigation Label"
+msgstr ""
+
+msgid "Title Attribute"
+msgstr ""
+
+msgid "Open link in a new window/tab"
+msgstr ""
+
+msgid "CSS Classes (optional)"
+msgstr ""
+
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+msgid "Move"
+msgstr ""
+
+msgid "Up one"
+msgstr ""
+
+msgid "Down one"
+msgstr ""
+
+msgid "To the top"
+msgstr ""
+
+msgid "Original: %s"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+msgid "Primary Navigation"
+msgstr ""
+
+msgid "Blog Sidebar"
+msgstr ""
+
+msgid "Widgets in this area will be shown on all blog page."
+msgstr ""
+
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+msgid "Widgets in this area will be shown on all woocommerce page."
+msgstr ""
+
+msgid "BZOTech Core"
+msgstr ""
+
+msgid "BZOTech Elementor"
+msgstr ""
+
+msgid "Revolution Slider"
+msgstr ""
+
+msgid "elementor"
+msgstr ""
+
+msgid "Redux Framework"
+msgstr ""
+
+msgid "WooCommerce"
+msgstr ""
+
+msgid "FOX – Currency Switcher Professional for WooCommerce"
+msgstr ""
+
+msgid "Contact Form 7"
+msgstr ""
+
+msgid "MailChimp for WordPress Lite"
+msgstr ""
+
+msgid "Yith Woocommerce Compare"
+msgstr ""
+
+msgid "Yith Woocommerce Wishlist"
+msgstr ""
+
+msgid "%1$s"
+msgstr ""
+
+msgid "SideBar created by add sidebar in theme options."
+msgstr ""
+
+msgid "Show banner"
+msgstr ""
+
+msgid "Choose by theme option"
+msgstr ""
+
+msgid "Background banner"
+msgstr ""
+
+msgid "Link banner"
+msgstr ""
+
+msgid "Content banner"
+msgstr ""
+
+msgid "Append Content Before"
+msgstr ""
+
+msgid "Choose page"
+msgstr ""
+
+msgid "Append Content After"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Link Phone"
+msgstr ""
+
+msgid "Link facebook"
+msgstr ""
+
+msgid "Link twitter"
+msgstr ""
+
+msgid "Link instagram"
+msgstr ""
+
+msgid "Courses"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add New Courses"
+msgstr ""
+
+msgid "New Courses"
+msgstr ""
+
+msgid "Edit Courses"
+msgstr ""
+
+msgid "View Courses"
+msgstr ""
+
+msgid "All Courses"
+msgstr ""
+
+msgid "Search Courses"
+msgstr ""
+
+msgid "Parent Courses:"
+msgstr ""
+
+msgid "No Courses found."
+msgstr ""
+
+msgid "No Courses found in Trash."
+msgstr ""
+
+msgid "Courses Category"
+msgstr ""
+
+msgid "Teacher"
+msgstr ""
+
+msgid "Attribute"
+msgstr ""
+
+msgid "background-repeat"
+msgstr ""
+
+msgid "No Repeat"
+msgstr ""
+
+msgid "Repeat All"
+msgstr ""
+
+msgid "Repeat Horizontally"
+msgstr ""
+
+msgid "Repeat Vertically"
+msgstr ""
+
+msgid "background-attachment"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Scroll"
+msgstr ""
+
+msgid "background-position"
+msgstr ""
+
+msgid "Left Top"
+msgstr ""
+
+msgid "Left Center"
+msgstr ""
+
+msgid "Left Bottom"
+msgstr ""
+
+msgid "Center Top"
+msgstr ""
+
+msgid "Center Center"
+msgstr ""
+
+msgid "Center Bottom"
+msgstr ""
+
+msgid "Right Top"
+msgstr ""
+
+msgid "Right Center"
+msgstr ""
+
+msgid "Right Bottom"
+msgstr ""
+
+msgid "background-size"
+msgstr ""
+
+msgid "background-image"
+msgstr ""
+
+msgid "Add Media"
+msgstr ""
+
+msgid "Choose Color"
+msgstr ""
+
+msgid "Font Family"
+msgstr ""
+
+msgid "font-family"
+msgstr ""
+
+msgid "font-size"
+msgstr ""
+
+msgid "Font Style"
+msgstr ""
+
+msgid "font-style"
+msgstr ""
+
+msgid "Italic"
+msgstr ""
+
+msgid "Oblique"
+msgstr ""
+
+msgid "Font Variant"
+msgstr ""
+
+msgid "font-variant"
+msgstr ""
+
+msgid "Small Caps"
+msgstr ""
+
+msgid "Font Weight"
+msgstr ""
+
+msgid "font-weight"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Bolder"
+msgstr ""
+
+msgid "Lighter"
+msgstr ""
+
+msgid "100"
+msgstr ""
+
+msgid "200"
+msgstr ""
+
+msgid "300"
+msgstr ""
+
+msgid "400"
+msgstr ""
+
+msgid "500"
+msgstr ""
+
+msgid "600"
+msgstr ""
+
+msgid "700"
+msgstr ""
+
+msgid "800"
+msgstr ""
+
+msgid "900"
+msgstr ""
+
+msgid "Letter Spacing"
+msgstr ""
+
+msgid "line-height"
+msgstr ""
+
+msgid "Text Decoration"
+msgstr ""
+
+msgid "Text Transform"
+msgstr ""
+
+msgid "Bzotech Elementor Global"
+msgstr ""
+
+msgid "Bzotech Elementor"
+msgstr ""
+
+msgid "Footer Page"
+msgstr ""
+
+msgid "Add New Footer"
+msgstr ""
+
+msgid "New Footer"
+msgstr ""
+
+msgid "Edit Footer"
+msgstr ""
+
+msgid "View Footer"
+msgstr ""
+
+msgid "All Footer"
+msgstr ""
+
+msgid "Search Footer"
+msgstr ""
+
+msgid "Parent Footer:"
+msgstr ""
+
+msgid "No Footer found."
+msgstr ""
+
+msgid "No Footer found in Trash."
+msgstr ""
+
+msgid "Header Page"
+msgstr ""
+
+msgid "Add New Header"
+msgstr ""
+
+msgid "New Header"
+msgstr ""
+
+msgid "Edit Header"
+msgstr ""
+
+msgid "View Header"
+msgstr ""
+
+msgid "All Header"
+msgstr ""
+
+msgid "Search Header"
+msgstr ""
+
+msgid "Parent Header:"
+msgstr ""
+
+msgid "No Header found."
+msgstr ""
+
+msgid "No Header found in Trash."
+msgstr ""
+
+msgid "Mega Page"
+msgstr ""
+
+msgid "Add New Mega Page"
+msgstr ""
+
+msgid "New Mega Page"
+msgstr ""
+
+msgid "Edit Mega Page"
+msgstr ""
+
+msgid "View Mega Page"
+msgstr ""
+
+msgid "All Mega Page"
+msgstr ""
+
+msgid "Search Mega Page"
+msgstr ""
+
+msgid "Parent Mega Page:"
+msgstr ""
+
+msgid "No Mega Page found."
+msgstr ""
+
+msgid "No Mega Page found in Trash."
+msgstr ""
+
+msgid "Format Settings"
+msgstr ""
+
+msgid "Style Single Post"
+msgstr ""
+
+msgid "--Select--"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "Add Gallery"
+msgstr ""
+
+msgid "Choose images from media."
+msgstr ""
+
+msgid "Link Media"
+msgstr ""
+
+msgid "Enter media url(Youtube, Vimeo, SoundCloud ...)."
+msgstr ""
+
+msgid "Page Settings"
+msgstr ""
+
+msgid "General Settings"
+msgstr ""
+
+msgid "Choose page header"
+msgstr ""
+
+msgid ""
+"Include Header content. Go to Header page in admin menu to edit/create "
+"header content. Default is value of Theme Option."
+msgstr ""
+
+msgid "Choose page footer"
+msgstr ""
+
+msgid ""
+"Include Footer content. Go to Footer page in admin menu to edit/create "
+"footer content. Default is value of Theme Option."
+msgstr ""
+
+msgid "Sidebar position "
+msgstr ""
+
+msgid "No Sidebar"
+msgstr ""
+
+msgid "Left sidebar"
+msgstr ""
+
+msgid "Right sidebar"
+msgstr ""
+
+msgid ""
+"Choose sidebar position for current page/post(Left,Right or No Sidebar)."
+msgstr ""
+
+msgid "Selects sidebar"
+msgstr ""
+
+msgid "Choose a sidebar to display."
+msgstr ""
+
+msgid "Sidebar style "
+msgstr ""
+
+msgid "Choose sidebar style for current page/post."
+msgstr ""
+
+msgid "Append content before"
+msgstr ""
+
+msgid "Choose a mega page content append to before main content of page/post."
+msgstr ""
+
+msgid "Append content after"
+msgstr ""
+
+msgid "Choose a mega page content append to after main content of page/post."
+msgstr ""
+
+msgid "Show title"
+msgstr ""
+
+msgid "Show/hide title of page."
+msgstr ""
+
+msgid "Show Share Box"
+msgstr ""
+
+msgid "--Theme Option--"
+msgstr ""
+
+msgid "You can show/hide share box independent on this page. "
+msgstr ""
+
+msgid "Custom color"
+msgstr ""
+
+msgid "Body Background"
+msgstr ""
+
+msgid "Change body background of page."
+msgstr ""
+
+msgid "Main color"
+msgstr ""
+
+msgid "Change main color of this page."
+msgstr ""
+
+msgid "Main color 2"
+msgstr ""
+
+msgid "Change main color 2 of this page."
+msgstr ""
+
+msgid "Body typography"
+msgstr ""
+
+msgid "Custom the body font."
+msgstr ""
+
+msgid "Title typography"
+msgstr ""
+
+msgid "Custom font in Title."
+msgstr ""
+
+msgid "Display & Style"
+msgstr ""
+
+msgid "Page Style"
+msgstr ""
+
+msgid "Page boxed"
+msgstr ""
+
+msgid "Choose default style for page."
+msgstr ""
+
+msgid "Custom container width(px)"
+msgstr ""
+
+msgid "You can custom width of page container. Default is 1200px."
+msgstr ""
+
+msgid "Add class body"
+msgstr ""
+
+msgid "CSS classes"
+msgstr ""
+
+msgid "Product Settings"
+msgstr ""
+
+msgid "Product detail style"
+msgstr ""
+
+msgid "Select style of product detail"
+msgstr ""
+
+msgid "Style 1 (Gallery horizontal )"
+msgstr ""
+
+msgid "Style 2 (Gallery vertical)"
+msgstr ""
+
+msgid "Style 3 (Gallery sticky)"
+msgstr ""
+
+msgid "Style 4 (Gallery sticky)"
+msgstr ""
+
+msgid "Style 5 (Gallery sticky)"
+msgstr ""
+
+msgid "Style 6 (Gallery horizontal 2)"
+msgstr ""
+
+msgid "Style 7 (Gallery vertical 2)"
+msgstr ""
+
+msgid "Product Trending"
+msgstr ""
+
+msgid "Set trending for current product."
+msgstr ""
+
+msgid "Sticky add to cart"
+msgstr ""
+
+msgid "Image zoom"
+msgstr ""
+
+msgid "Choose a style to display"
+msgstr ""
+
+msgid "Theme option"
+msgstr ""
+
+msgid "Zoom 1"
+msgstr ""
+
+msgid "Zoom 2"
+msgstr ""
+
+msgid "Zoom 3"
+msgstr ""
+
+msgid "Zoom 4"
+msgstr ""
+
+msgid "Link/URL video"
+msgstr ""
+
+msgid ""
+"Get link video(audio) in youtube, vimeo, soundclound, share host,... then "
+"input a link media. Note: Share host: there are 3 supported video formats "
+"mp4, ogg, webm "
+msgstr ""
+
+msgid "Add attribute by color (Show on list item product.)"
+msgstr ""
+
+msgid "Choose image from media"
+msgstr ""
+
+msgid ""
+"Choose image from media (Active in animation rotate thumbnail, zoomout "
+"thumbnail, translate thumbnail)"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid ""
+"Custom item devices (Show the number product item of related products, "
+"latest products and upsell products) "
+msgstr ""
+
+msgid ""
+"Enter item for screen width(px) format is width:value and separate values by "
+"\",\". Example is 0:1,375:2,991:3,1170:4. Default in theme option."
+msgstr ""
+
+msgid "Append content before product tab"
+msgstr ""
+
+msgid "Choose a mega page content append to before product tab."
+msgstr ""
+
+msgid "Append content after product tab"
+msgstr ""
+
+msgid "Product tab style"
+msgstr ""
+
+msgid "Tab style horizontal"
+msgstr ""
+
+msgid "Tab style vertical"
+msgstr ""
+
+msgid "Tab style accordion"
+msgstr ""
+
+msgid "Add Custom Tab"
+msgstr ""
+
+msgid "Priority (Default 40)"
+msgstr ""
+
+msgid "Choose priority value to re-order custom tab position."
+msgstr ""
+
+msgid "Courses Option"
+msgstr ""
+
+msgid "General information"
+msgstr ""
+
+msgid "Course opening date"
+msgstr ""
+
+msgid "Course end date"
+msgstr ""
+
+msgid "Study time"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Course address"
+msgstr ""
+
+msgid "Basic Settings"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid ""
+"Select the header style. To edit/create header content, go to \"Header "
+"Page\" in Admin Dashboard. Note: this setting is applied for all pages; for "
+"single page setting, please go to each page to config."
+msgstr ""
+
+msgid ""
+"Select the footer style. To edit/create footer content, go to \"Footer "
+"Page\" in Admin Dashboard. Note: this setting is applied for all pages; for "
+"single page setting, please go to each page to config.\""
+msgstr ""
+
+msgid "Breadcrumb"
+msgstr ""
+
+msgid "Show or hide the breadcrumb."
+msgstr ""
+
+msgid "Breadcrumb background image"
+msgstr ""
+
+msgid "Custom breadcrumb page"
+msgstr ""
+
+msgid "Select the custom breadcrumb page."
+msgstr ""
+
+msgid "404 Page"
+msgstr ""
+
+msgid "Select Mega Page inserts to the 404 page."
+msgstr ""
+
+msgid "404 Style"
+msgstr ""
+
+msgid "Choose a style to display."
+msgstr ""
+
+msgid "FullWidth"
+msgstr ""
+
+msgid "Turn on the course"
+msgstr ""
+
+msgid "Open the course feature"
+msgstr ""
+
+msgid "Preload"
+msgstr ""
+
+msgid "Turn on or off the preload option."
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Select the default preload background color."
+msgstr ""
+
+msgid "Preload style"
+msgstr ""
+
+msgid "Style 5"
+msgstr ""
+
+msgid "Style 6"
+msgstr ""
+
+msgid "Style 7"
+msgstr ""
+
+msgid "Custom image"
+msgstr ""
+
+msgid "Select the preload style."
+msgstr ""
+
+msgid "Preload image"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Scroll to Top button"
+msgstr ""
+
+msgid "Show or hide scroll to top button."
+msgstr ""
+
+msgid "Wislist notififcation"
+msgstr ""
+
+msgid "Show or hide notification after adding product to wishlist."
+msgstr ""
+
+msgid "Tool panel"
+msgstr ""
+
+msgid "Show or hide sidebar tool panels."
+msgstr ""
+
+msgid "Choose tool panel page"
+msgstr ""
+
+msgid "Choose a mega page to display."
+msgstr ""
+
+msgid "Append content after footer"
+msgstr ""
+
+msgid "Choose a mega page content append to after main content of footer"
+msgstr ""
+
+msgid "Body background color"
+msgstr ""
+
+msgid "Change the default body background color."
+msgstr ""
+
+msgid "Change the website main color."
+msgstr ""
+
+msgid "Change main color 2 of your site."
+msgstr ""
+
+msgid "Select the default style for pages."
+msgstr ""
+
+msgid "Custom container width (px)"
+msgstr ""
+
+msgid "Set width for the website container. Default is 1650px."
+msgstr ""
+
+msgid "Show social share box"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Select to show social share box for post, page or product pages."
+msgstr ""
+
+msgid "Custom social share box"
+msgstr ""
+
+msgid "Social"
+msgstr ""
+
+msgid "Total share"
+msgstr ""
+
+msgid "Mail"
+msgstr ""
+
+msgid "Show number"
+msgstr ""
+
+msgid "Session option"
+msgstr ""
+
+msgid "Ajax security"
+msgstr ""
+
+msgid ""
+"Check ajax referer for security. If you are using caching, enabling this "
+"function may cause ajax to not work"
+msgstr ""
+
+msgid "Select Demo"
+msgstr ""
+
+msgid "Select demo version"
+msgstr ""
+
+msgid "Image down size"
+msgstr ""
+
+msgid ""
+"Enable this feature to crop images to the parameters you set everywhere. "
+"Note that after croppeing the images, you should turn it off to increase web "
+"speed"
+msgstr ""
+
+msgid "Layout Settings"
+msgstr ""
+
+msgid "Page sidebar position"
+msgstr ""
+
+msgid "Set the sidebar position for the website  pages."
+msgstr ""
+
+msgid "Select Sidebar"
+msgstr ""
+
+msgid "Select the sidebar to display for the website page."
+msgstr ""
+
+msgid "Sidebar style"
+msgstr ""
+
+msgid "Select the sidebar style for the website page."
+msgstr ""
+
+msgid "Style2"
+msgstr ""
+
+msgid "Select archives page sidebar"
+msgstr ""
+
+msgid "Select the sidebar to display for the archives page."
+msgstr ""
+
+msgid "Select sidebar"
+msgstr ""
+
+msgid "Select the sidebar to display for the archive page."
+msgstr ""
+
+msgid "Select the sidebar style for the archive page."
+msgstr ""
+
+msgid "Search page sidebar position"
+msgstr ""
+
+msgid "Set the sidebar position for the search page."
+msgstr ""
+
+msgid "Select the sidebar to display for the search page."
+msgstr ""
+
+msgid "Select the sidebar style for the search page"
+msgstr ""
+
+msgid "Add SideBar"
+msgstr ""
+
+msgid "Set widget heading style"
+msgstr ""
+
+msgid "H1"
+msgstr ""
+
+msgid "Course"
+msgstr ""
+
+msgid "Append content before course detail page"
+msgstr ""
+
+msgid "Choose a mega page content append to before main content of post."
+msgstr ""
+
+msgid "Append content after course detail page"
+msgstr ""
+
+msgid "Choose a mega page content append to after main content of post."
+msgstr ""
+
+msgid "Related course"
+msgstr ""
+
+msgid "Show or hide related post in the course detail."
+msgstr ""
+
+msgid "Related title"
+msgstr ""
+
+msgid "Enter title of related section."
+msgstr ""
+
+msgid "Related number post"
+msgstr ""
+
+msgid "Enter number of related post to display."
+msgstr ""
+
+msgid "Related custom number item responsive"
+msgstr ""
+
+msgid ""
+"Enter item for screen width(px) format is width:value and separate values by "
+"\",\". Example is 0:2,600:3,1000:4. Default is auto."
+msgstr ""
+
+msgid "Related item style"
+msgstr ""
+
+msgid "Choose a style to active display"
+msgstr ""
+
+msgid "Shop"
+msgstr "Tienda"
+
+msgid "Sidebar position"
+msgstr ""
+
+msgid ""
+"Select the sidebar position for the WooCommerce pages (Shop, Checkout, Cart, "
+"My Account, Product category/tag/taxonomy page...). Left, Right, or No "
+"sidebar."
+msgstr ""
+
+msgid "Select the sidebar to display for WooCommerce pages"
+msgstr ""
+
+msgid "Select the sidebar style for the shop page"
+msgstr ""
+
+msgid "Default style"
+msgstr ""
+
+msgid "Set the default style for the shop page: list view or grid view."
+msgstr ""
+
+msgid "Gap products"
+msgstr ""
+
+msgid "Set the space between the items on the shop page."
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "5px"
+msgstr ""
+
+msgid "10px"
+msgstr ""
+
+msgid "15px"
+msgstr ""
+
+msgid "20px"
+msgstr ""
+
+msgid "30px"
+msgstr ""
+
+msgid "40px"
+msgstr ""
+
+msgid "50px"
+msgstr ""
+
+msgid "Product number"
+msgstr ""
+
+msgid "Set the number of product to display per page. Default is 12."
+msgstr ""
+
+msgid "New product"
+msgstr "Nuevo producto"
+
+msgid "Set time for new products. Unit is day. Default is 0."
+msgstr ""
+
+msgid "Shop pagination"
+msgstr "Paginación de tienda"
+
+msgid "Select the pagination style for the shop page."
+msgstr ""
+
+msgid "Shop ajax"
+msgstr ""
+
+msgid "Enable or disable ajax process for the shop page."
+msgstr ""
+
+msgid "Thumbnail animation"
+msgstr ""
+
+msgid "Set the animation for product thumnail."
+msgstr ""
+
+msgid "Show number filter"
+msgstr ""
+
+msgid "Show or hide number filter on shop page."
+msgstr ""
+
+msgid "Add number list for filter"
+msgstr ""
+
+msgid "Add the number list to filter on the shop page."
+msgstr ""
+
+msgid "Show type filter"
+msgstr ""
+
+msgid "Show or hide type filter (list/grid) on the shop page."
+msgstr ""
+
+msgid "Show order filter"
+msgstr ""
+
+msgid "Show or hide order filter on the shop page."
+msgstr ""
+
+msgid "Show color attribute"
+msgstr ""
+
+msgid "Show or hide color attribute on the product list."
+msgstr ""
+
+msgid "Quick view button"
+msgstr ""
+
+msgid "Quick view style"
+msgstr ""
+
+msgid "Select the style for quickview."
+msgstr ""
+
+msgid "Style 1 (default)"
+msgstr ""
+
+msgid "List View Settings"
+msgstr ""
+
+msgid "Custom thumbnail size"
+msgstr ""
+
+msgid ""
+"Set the thumbnail size to crop in px. Format: [width]x[height]. For example "
+"300x300."
+msgstr ""
+
+msgid "Select the item style."
+msgstr ""
+
+msgid "Grid View Settings"
+msgstr ""
+
+msgid "Grid column"
+msgstr ""
+
+msgid "Select the number of column to show."
+msgstr ""
+
+msgid "2 column"
+msgstr ""
+
+msgid "3 column"
+msgstr ""
+
+msgid "4 column"
+msgstr ""
+
+msgid "5 column"
+msgstr ""
+
+msgid "6 column"
+msgstr ""
+
+msgid "7 column"
+msgstr ""
+
+msgid "8 column"
+msgstr ""
+
+msgid "9 column"
+msgstr ""
+
+msgid "10 column"
+msgstr ""
+
+msgid "Show or hide the thumbnail."
+msgstr ""
+
+msgid "Show or hide the quickview."
+msgstr ""
+
+msgid "Show or hide the title."
+msgstr ""
+
+msgid "Show or hide the rate."
+msgstr ""
+
+msgid "Button add to cart"
+msgstr ""
+
+msgid "Show or hide the button add to cart ."
+msgstr ""
+
+msgid "Show or hide the label (Label sale, label new...)."
+msgstr ""
+
+msgid "Countdown price"
+msgstr ""
+
+msgid "Show or hide the countdown by reduced price."
+msgstr ""
+
+msgid "Grid display"
+msgstr ""
+
+msgid "Select the grid style."
+msgstr ""
+
+msgid "Cart display"
+msgstr ""
+
+msgid "Select the cart style."
+msgstr ""
+
+msgid "Checkout display"
+msgstr ""
+
+msgid "Select the checkout style."
+msgstr ""
+
+msgid "WooCommerce page header"
+msgstr ""
+
+msgid ""
+"Select the header style. To edit/create header content, go to Header Page in "
+"Admin Dashboard.\n"
+"                        Note: this setting is applied for all pages; for "
+"single page setting, please go to each page to config."
+msgstr ""
+
+msgid "WooCommerce page footer"
+msgstr "Pie de página de WooCommerce"
+
+msgid ""
+"Select the footer style. To edit/create footer content, go to Footer Page in "
+"Admin Dashboard.\n"
+"                                Note: this setting is applied for all pages; "
+"for single page setting, please go to each page to config."
+msgstr ""
+
+msgid "Append content before WooCommerce page"
+msgstr ""
+
+msgid "Append content after WooCommerce page"
+msgstr ""
+
+msgid "Select style for the product detail."
+msgstr ""
+
+msgid "Select the sidebar position for the single product page."
+msgstr ""
+
+msgid "Select the sidebar for single product page."
+msgstr ""
+
+msgid "Select the sidebar style for the single product page."
+msgstr ""
+
+msgid "Select the image zoom style."
+msgstr ""
+
+msgid "Select the product tab style."
+msgstr ""
+
+msgid "Show excerpt"
+msgstr "Mostrar extracto"
+
+msgid "Extra Display"
+msgstr ""
+
+msgid "Show latest products"
+msgstr "Mostrar productos recientes"
+
+msgid "Show upsell products"
+msgstr "Mostrar productos complementarios"
+
+msgid "Show related products"
+msgstr "Mostrar productos relacionados"
+
+msgid "Show single number"
+msgstr ""
+
+msgid "Show single size"
+msgstr ""
+
+msgid ""
+"Set the size for related, upsell products thumbnail. Format: "
+"[width]x[height]. For example 300x300."
+msgstr ""
+
+msgid "Custom item devices"
+msgstr "Dispositivos personalizados"
+
+msgid ""
+"Set the number of related, upsell products for different screen size in px. "
+"Format is width:value and separate by \",\". Example is 0:2,600:3,1000:4. "
+"Default is auto."
+msgstr ""
+
+msgid "Single item style"
+msgstr ""
+
+msgid "Append content before product page"
+msgstr ""
+
+msgid "Append content after product page"
+msgstr ""
+
+msgid "Append content in summary"
+msgstr ""
+
+msgid ""
+"Choose a mega page content append to after main content of product summary."
+msgstr ""
+
+msgid "Set a position for the content to be added to the product summary"
+msgstr ""
+
+msgid "Set a position for the content to be added"
+msgstr ""
+
+msgid "Blog & Post"
+msgstr ""
+
+msgid "Append content before post/blog/archive page"
+msgstr ""
+
+msgid ""
+"Choose a mega page content append to before main content of post/blog/"
+"archive page."
+msgstr ""
+
+msgid "Append content after post/blog/archive page"
+msgstr ""
+
+msgid ""
+"Choose a mega page content append to after main content of post/blog/archive "
+"page."
+msgstr ""
+
+msgid "Select the sidebar position for the blog page."
+msgstr ""
+
+msgid "Select the sidebar to display for the blog pages."
+msgstr ""
+
+msgid "Select the sidebar style for the blog page."
+msgstr ""
+
+msgid "Default blog view style"
+msgstr ""
+
+msgid "Select the default blog view style: list view or grid view."
+msgstr ""
+
+msgid "Select the blog pagination style."
+msgstr ""
+
+msgid "Show/hide number filter on blog page."
+msgstr ""
+
+msgid "Add list number filter"
+msgstr ""
+
+msgid "Add custom list number to filter on the blog page."
+msgstr ""
+
+msgid "Show or hide type filter (list/grid) on blog page."
+msgstr ""
+
+msgid "Show or hide order filter on blog page."
+msgstr ""
+
+msgid "Show meta data"
+msgstr ""
+
+msgid ""
+"Show or hide meta data (author, date, comments, categories, tags) on blog "
+"page."
+msgstr ""
+
+msgid "Meta list"
+msgstr ""
+
+msgid "Custom list thumbnail size"
+msgstr ""
+
+msgid "Substring excerpt"
+msgstr ""
+
+msgid ""
+"Set the number of character to get from excerpt content. Default is 999. "
+"Note: This value only applies on items that supports to show excerpt."
+msgstr ""
+
+msgid "Display style"
+msgstr ""
+
+msgid "Select the grid display style."
+msgstr ""
+
+msgid "Post Detail Settings"
+msgstr ""
+
+msgid "Single post style"
+msgstr ""
+
+msgid "Select the sidebar position for the single post page."
+msgstr ""
+
+msgid "Select the sidebar to display for the single post page."
+msgstr ""
+
+msgid "Select the sidebar style for the post page."
+msgstr ""
+
+msgid "Append content before post detail"
+msgstr "Añadir contenido antes de los detalles de la publicación"
+
+msgid ""
+"Choose a mega page content append to before main content of post detail."
+msgstr ""
+
+msgid "Append content after post detail"
+msgstr ""
+
+msgid "Choose a mega page content append to after main content of post detail."
+msgstr ""
+
+msgid "Show thumbnail/media"
+msgstr ""
+
+msgid "Custom single image size"
+msgstr ""
+
+msgid "Enter size thumbnail to crop. [width]x[height]. Example is 300x300."
+msgstr ""
+
+msgid ""
+"Show or hide meta data (author, date, comments, categories, tags) on post "
+"detail."
+msgstr ""
+
+msgid "Show or hide author information in the post detail."
+msgstr ""
+
+msgid "Post navigation"
+msgstr ""
+
+msgid "Show or hide navigation to next or previous post in the post detail."
+msgstr ""
+
+msgid "Related post"
+msgstr "Artículos relacionados"
+
+msgid "Show or hide related post in the post detail."
+msgstr ""
+
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+msgid "Days"
+msgstr "Días"
+
+msgid "Hrs"
+msgstr "Hor"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Sec"
+msgstr "Seg"
+
+msgid "Add To Cart"
+msgstr "Agregar al carrito"
+
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+msgid "Add to Compare"
+msgstr ""
+
+msgid "Add to Wishlist"
+msgstr ""
+
+msgid "new"
+msgstr "nuevo"
+
+msgid "Bonus: %s%s"
+msgstr "Bonos: %s%s"
+
+msgid "No review"
+msgstr ""
+
+msgid "review"
+msgstr ""
+
+msgid "reviews"
+msgstr ""
+
+msgid "Default sorting"
+msgstr "Orden predeterminado"
+
+msgid "Sort by popularity"
+msgstr "Ordenar por popularidad"
+
+msgid "Sort by average rating"
+msgstr "Ordenar por calificación"
+
+msgid "Sort by latest"
+msgstr "Ordenar por más reciente"
+
+msgid "Sort by price: low to high"
+msgstr "Sort by price: low to high"
+
+msgid "Sort by price: high to low"
+msgstr "Ordenar por precio: de mayor a menor"
+
+msgid "Relevance"
+msgstr "Relevancia"
+
+msgid "No result found with current filter value."
+msgstr "No se han encontrado resultados con el valor del filtro actual."
+
+msgid "Sold: <span>%s/%s</span>"
+msgstr "Vendido: <span>%s/%s</span>"
+
+msgid "No any results with this keyword."
+msgstr "No hay resultados con esta palabra."
+
+msgid "Select terms"
+msgstr ""
+
+msgid "Select all"
+msgstr "Seleccionar todo"
+
+msgid "Select none"
+msgstr "No seleccionar nada"
+
+msgid "Add new"
+msgstr "Agregar nuevo"
+
+msgid "-- Choose One --"
+msgstr ""
+
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+msgid "Missing a variable of this funtion"
+msgstr ""
+
+msgid "preload-image"
+msgstr ""
+
+msgid "No Tag"
+msgstr ""
+
+msgid "Views"
+msgstr "Vistas"
+
+msgid "By: "
+msgstr "Por: "
+
+msgid "Tag"
+msgstr ""
+
+msgid "Post list 2"
+msgstr ""
+
+msgid "Style 2 (home 3)"
+msgstr ""
+
+msgid "Style 3 (home 4)"
+msgstr ""
+
+msgid "Style 4 (home 5)"
+msgstr ""
+
+msgid "Style 5 (home 7)"
+msgstr ""
+
+msgid "Overlay Zoom"
+msgstr ""
+
+msgid "Product grid 2"
+msgstr ""
+
+msgid "Product grid 3"
+msgstr ""
+
+msgid "Product grid 4"
+msgstr ""
+
+msgid "Product grid 5"
+msgstr ""
+
+msgid "Product grid 6"
+msgstr ""
+
+msgid "Product list column"
+msgstr ""
+
+msgid "Product grid 8"
+msgstr ""
+
+msgid "Product grid 9"
+msgstr ""
+
+msgid "Product grid 10"
+msgstr ""
+
+msgid "Post Parent"
+msgstr ""
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "Search Results for: "
+msgstr "Resultados de la búsqueda para: "
+
+msgid "Background color 2"
+msgstr ""
+
+msgid "Background color darken"
+msgstr ""
+
+msgid "Background color lighten"
+msgstr ""
+
+msgid "Background color title"
+msgstr ""
+
+msgid "Background color title2"
+msgstr ""
+
+msgid "Color body"
+msgstr ""
+
+msgid "Color title"
+msgstr ""
+
+msgid "Color white"
+msgstr ""
+
+msgid "Color gray"
+msgstr ""
+
+msgid "Font body"
+msgstr ""
+
+msgid "Font title"
+msgstr "Título de la fuente"
+
+msgid "Hover main color"
+msgstr ""
+
+msgid "Hover main color 2"
+msgstr ""
+
+msgid "Hover color body"
+msgstr ""
+
+msgid "Hover color title"
+msgstr ""
+
+msgid "Hover color gray"
+msgstr ""
+
+msgid "BZOTECH Attribute Filter"
+msgstr ""
+
+msgid "Filter product shop page"
+msgstr "Filtrar página de la tienda de productos"
+
+msgid "Title:"
+msgstr "Título:"
+
+msgid "Attribute:"
+msgstr "Atributo:"
+
+msgid "No any attribute."
+msgstr "Sin ningún atributo."
+
+msgid "BZOTECH Categories Filter"
+msgstr ""
+
+msgid "Categories:"
+msgstr "Categorías:"
+
+msgid "No any category."
+msgstr ""
+
+msgid "BZOTECH Get Mega Page"
+msgstr ""
+
+msgid "Get content in mega page"
+msgstr ""
+
+msgid "Select mega page:"
+msgstr ""
+
+msgid "Wrap class:"
+msgstr ""
+
+msgid "BZOTECH Group begin"
+msgstr ""
+
+msgid "Begin a Group"
+msgstr ""
+
+msgid "BZOTECH Group End"
+msgstr ""
+
+msgid "Display a slider to filter products in your store by price."
+msgstr ""
+
+msgid "BZOTECH Filter By Price"
+msgstr ""
+
+msgid "Filter by price"
+msgstr "Filtrar por precio"
+
+msgid "Min price"
+msgstr "Precio mínimo"
+
+msgid "Max price"
+msgstr "Precio máximo"
+
+msgid "BZOTECH Posts List"
+msgstr ""
+
+msgid "Posts list"
+msgstr ""
+
+msgid "List Posts"
+msgstr ""
+
+msgid "Post Number"
+msgstr ""
+
+msgid "Order By"
+msgstr "Ordenar por"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "--- Select ---"
+msgstr "--- Seleccionar ---"
+
+msgid "Number product in item silder (Default: 4)"
+msgstr ""
+
+msgid ""
+"Custom image size (Example: enter size in pixels : 200x100 (Width x Height))"
+msgstr ""
+
+msgid "Display a list of your products on your site."
+msgstr "Muestra una lista de tus productos en tu sitio web."
+
+msgid "BZOTECH Products slider"
+msgstr ""
+
+msgid "Products list"
+msgstr "Lista de productos"
+
+msgid "Number post (Default: 8)"
+msgstr ""
+
+msgid "Filter by category (Default get all)"
+msgstr "Filtrar por categoría (por defecto mostrar todo)"
+
+msgid "Post ID"
+msgstr ""
+
+msgid "Post Title"
+msgstr ""
+
+msgid "Post Name"
+msgstr ""
+
+msgid "Post Date"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Comment Count"
+msgstr ""
+
+msgid "View Post"
+msgstr "Ver publicación"
+
+msgid "Rating Product"
+msgstr ""
+
+msgid "Sort by price"
+msgstr "Ordenar por precio"
+
+msgid "Descending"
+msgstr "Descendente"
+
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgid ""
+"Custom image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" "
+"or other sizes defined by theme. Alternatively enter size in pixels : "
+"200x100 (Width x Height))"
+msgstr ""
+
+msgid "BZOTECH Rating Filter"
+msgstr ""
+
+msgid "Display a list of star ratings to filter products in your store."
+msgstr ""
+
+msgid "Rating"
+msgstr "Valoración"
+
+msgid "Search.."
+msgstr "Buscar.."
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Start:"
+msgstr ""
+
+msgid "End:"
+msgstr ""
+
+msgid "Study time:"
+msgstr ""
+
+msgid "Cost:"
+msgstr ""
+
+msgid "Instructors:"
+msgstr ""
+
+msgid "Phone:"
+msgstr "Celular:"
+
+msgid "Email:"
+msgstr "Correo:"
+
+msgid "Social :"
+msgstr "Social :"
+
+msgid "Other information"
+msgstr "Otra información"
+
+msgid "Address:"
+msgstr "Dirección:"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Remove this item"
+msgstr "Remover producto"
+
+msgid "Available on backorder"
+msgstr ""
+
+msgid "Coupon:"
+msgstr "Cupón:"
+
+msgid "Coupon code"
+msgstr "Código cupón"
+
+msgid "Apply coupon"
+msgstr "Aplicar cupón"
+
+msgid "Update cart"
+msgstr "Actualizar carrito"
+
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Cant"
+
+msgid "Login"
+msgstr "Ingresar"
+
+msgid "Username or email address*"
+msgstr "Usuario o correo electrónico*"
+
+msgid "Password*"
+msgstr "Contraseña"
+
+msgid "Remember me"
+msgstr "Recordarme"
+
+msgid "Username*"
+msgstr "Usuario*"
+
+msgid "Email address*"
+msgstr "Correo electrónico*"
+
+msgid "A password will be sent to your email address."
+msgstr "Se le enviará una contraseña a su dirección de correo electrónico."
+
+msgid "This product is currently out of stock and unavailable."
+msgstr "Este producto está agotado."
+
+msgid "Product Code:"
+msgstr "Código Producto:"
+
+msgid "N/A"
+msgstr ""
+
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categoría:"
+msgstr[1] "Categorías:"
+
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Sold: "
+msgstr "Vendido: "
+
+msgid "Add a review"
+msgstr ""
+
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+msgid "Leave a Reply to %s"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+msgid "Your rating"
+msgstr ""
+
+msgid "Rate&hellip;"
+msgstr ""
+
+msgid "Perfect"
+msgstr ""
+
+msgid "Good"
+msgstr ""
+
+msgid "Average"
+msgstr ""
+
+msgid "Not that bad"
+msgstr ""
+
+msgid "Very poor"
+msgstr ""
+
+msgid "Your review"
+msgstr ""
+
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Reviews"
+msgstr "Valoraciones"
+
+msgid "There are no reviews yet."
+msgstr ""
+
+msgid "Bw KidXtore"
+msgstr ""
+
+msgid "https://kidxtore.bzotech.com/intro/"
+msgstr "https://nikito.pe"
+
+msgid ""
+"KidXtore is a very cute WooCommerce theme with eye-catching designs and "
+"colorful colors. It is the ideal WordPress theme for e-commerce websites or "
+"businesses that sell goods for babies and kids."
+msgstr "Tema para Nikito."
+
+msgid "BZOTech"
+msgstr "NIKITO"
+
+msgid "https://bzotech.com/"
+msgstr "https://nikito.pe"
+
+msgid "Elementor Theme BzoTech"
+msgstr "NIKITO Tema"
