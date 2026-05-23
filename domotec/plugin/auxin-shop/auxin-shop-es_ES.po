@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Phlox Shop 2.1.7\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/auxin-shop\n"
 "POT-Creation-Date: 2025-06-28T12:11:10+00:00\n"
-"PO-Revision-Date: 2026-05-22 02:06-0500\n"
+"PO-Revision-Date: 2026-05-22 16:37-0500\n"
 "Last-Translator: Checha <czarrj@proton.me>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -322,7 +322,7 @@ msgstr ""
 #: includes/woo-functions.php:67
 #: public/templates/woocommerce/loop/orderby.php:23
 msgid "Default"
-msgstr ""
+msgstr "Recientes"
 
 #: admin/includes/metaboxes/metabox-fields-product-info.php:290
 #: includes/general-hooks.php:923

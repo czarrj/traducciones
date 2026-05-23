@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://averta.net/phlox/wordpress-theme/\n"
 "POT-Creation-Date: 2026-02-03 09:46:54+00:00\n"
-"PO-Revision-Date: 2026-05-20 21:03-0500\n"
+"PO-Revision-Date: 2026-05-22 16:54-0500\n"
 "Last-Translator: Checha <czarrj@proton.me>\n"
 "Language-Team: Averta <info@averta.net>\n"
 "Language: es_ES\n"
@@ -11357,19 +11357,21 @@ msgstr ""
 #: templates/theme-parts/content-no-results.php:10
 #: templates/theme-parts/content-none.php:10
 msgid "Nothing Found"
-msgstr ""
+msgstr "Producto no encontrado!!!"
 
 #: build/phlox/templates/theme-parts/content-no-results.php:11
 #: build/phlox-pro/templates/theme-parts/content-no-results.php:11
 #: templates/theme-parts/content-no-results.php:11
 msgid "Sorry, no results were found. Try another search?"
 msgstr ""
+"Lo sentimos, no se han encontrado resultados. ¿Quieres probar con otra "
+"búsqueda?"
 
 #: build/phlox/templates/theme-parts/content-no-results.php:16
 #: build/phlox-pro/templates/theme-parts/content-no-results.php:16
 #: templates/theme-parts/content-no-results.php:16
 msgid "Back to home page"
-msgstr ""
+msgstr "Regresar a la página de inicio"
 
 #: build/phlox/templates/theme-parts/content-none.php:11
 #: build/phlox-pro/templates/theme-parts/content-none.php:11
@@ -11413,7 +11415,7 @@ msgstr ""
 #: build/phlox-pro/templates/theme-parts/entry/404.php:8
 #: templates/theme-parts/entry/404.php:8
 msgid "Oops! Page Not Found"
-msgstr ""
+msgstr "Oops! Página no encontrada"
 
 #: build/phlox/templates/theme-parts/entry/404.php:9
 #: build/phlox-pro/templates/theme-parts/entry/404.php:9
